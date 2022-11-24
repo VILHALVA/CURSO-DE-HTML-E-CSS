@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Imagens flexivel</title>
+    <style>
+        img {
+            width: 100%;
+        }
+    </style>
+</head>
+<body>
+    <h1>Imagens Flexiveis:</h1>
+    <p>Tente abrir esse site em varios dispositivos diferentes 
+        ou simplesmente aumente e diminua o tamanho do seu navegador.
+    </p>
+    <picture>
+        <source media="(max-width: 600px)" srcset="../MIDIAS/imagem_p.png">
+        <source media="(max-width: 900px)" srcset="../MIDIAS/imagem_m.png">
+        <img src="../MIDIAS/imagem_g.png" alt="">
+    </picture>
+</body>
+</html>

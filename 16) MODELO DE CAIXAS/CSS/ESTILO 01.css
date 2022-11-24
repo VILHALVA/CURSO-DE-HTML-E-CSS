@@ -1,0 +1,149 @@
+@charset "UTF-8";
+
+@font-face {
+    font-family: 'TEMA';
+    src: url(../FONTS/Olive\ Days.ttf);
+}
+
+@font-face {
+    font-family: 'TITULO';
+    src: url(../FONTS/STOREB__.ttf);
+}
+
+@font-face {
+    font-family: 'TEXTO';
+    src: url(../FONTS/Hurry\ Loves.otf);
+}
+
+p {
+    font-family: 'TEXTO', Helvetica, sans-serif;
+    font-size: 14px;
+}
+
+p:hover {
+    font-family: Arial, Helvetica, sans-serif;
+    color: rgb(16, 16, 20);
+    font-size: 30px;
+}
+
+body {
+    background-image: linear-gradient(to bottom, #2D33A6, #F28705)
+}
+
+main {
+    background-color: #F20505;
+    color: #F2F2F2;
+    border-radius: 20px;
+    box-shadow: 5px 4px 15px #b31b55;
+    width: 600px;
+    padding: 60px;
+    margin: auto;
+}
+
+div {
+    background-color: #18349c;
+    color: #F2F2F2;
+    font-size: 20px;
+    border-radius: 20px;
+    box-shadow: 5px 4px 5px #45202e;
+    width: 360px;
+    height: 410px;
+    padding: 60px;
+    margin: auto;
+}
+
+div:hover {
+    width: 450px;
+    height: 460px;
+}
+
+dt {
+    color: black;
+    font-size: 25px;
+}
+
+dd {
+    color: rgb(25, 20, 125);
+    font-size: 20px;
+}
+
+dd:hover {
+    color: white;
+    font-size: 30px;
+}
+
+#titulo {
+    font-family: 'TITULO', Helvetica, sans-serif;
+    font-size: 3em;
+}
+
+h1,h2 {
+    font-family: 'TITULO', Helvetica, sans-serif;
+    font-size: 32px;
+    font-weight: bolder;
+    text-decoration: underline;
+    font-style: oblique;
+    color: rgb(15, 15, 77);
+    text-align: center;
+    text-shadow: 4px 4px 5px #153f7d;
+}
+
+h3 {
+    font-family: 'TEMA', Helvetica, sans-serif;
+    font-size: 27px;
+    font-weight: bold;
+    text-decoration: underline;
+    font-style: italic;
+    color: rgb(11, 44, 12);
+    text-shadow: 3px 4px 5px #1d5f24;
+}
+
+h1:hover {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 40px;
+    font-weight: normal;
+    text-decoration: none;
+    font-style: normal;
+    color: black;
+    text-shadow: 2px 3px 2px #191a19;
+}
+
+h2:hover {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 40px;
+    font-weight: normal;
+    text-decoration: none;
+    font-style: normal;
+    color: black;
+    text-shadow: 2px 3px 2px #191a19;
+}
+
+h3:hover {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 40px;
+    font-weight: normal;
+    text-decoration: none;
+    font-style: normal;
+    color: black;
+    text-shadow: 2px 3px 2px #191a19;
+}
+
+hr {
+    background-color: black;
+    color: darkmagenta;
+}
+
+img {
+    width: 400px;
+    height: 200px;
+}
+
+img:hover {
+    width: 600px;
+    height: 300px;
+}
+
+iframe:hover {
+    width: 500px;
+    height: 280px;
+}
