@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>IFRAMES SEGUROS</title>
+</head>
+<body>
+    <h1>TORNANDO OS IFRAMES SEGUROS</h1>
+    <h2>FORMULÁRIOS</h2>
+    <h3>CADASTRE-SE AQUI:</h3>
+    <form action="cadastro.php" method="get">
+        <p>
+            NOME:
+            <input type="text" name="NOME" id="NOME">
+            <input type="submit" value="CADASTRAR">
+        </p>
+    </form>
+    
+    <h1>JAVASCRIPT</h1>
+    <a href="#" onclick="CLICOU()">CLIQUE AQUI</a>
+    <div id="saida"></div>
+    <script>
+        function CLICOU() {
+            s = window.document.getElementById("saida")
+            s.innerHTML += '<p>VOCÊ CLICOU</p>'
+        }
+    </script>
+</body>
+</html>
