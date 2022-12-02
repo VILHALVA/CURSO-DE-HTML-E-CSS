@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>MAIS ELEMENTOS</title>
+</head>
+<body>
+    <h1>ELEMENTOS: NUMBER, MONTH, DATE E TIME.</h1>
+    <h2>NOTA DO ALUNO:</h2>
+    <form method="get" action="CADASTRO.php" autocomplete="on">
+        <p><label for="INOME">NOME:</label> 
+            <input type="text" required minlength="5" maxlength="40" size="40" autocomplete="name" placeholder="NOME COMPRETO" name="NOME" id="INOME">
+        </p>
+
+        <p><label for="IMEDIA">MÉDIA:</label>  
+           <input type="number" required min="0" max="10" step="0.1" placeholder="0 - 10" size="2" name="MEDIA" id="IMEDIA">
+        </p>
+
+        <p><label for="IPERIODO">PERIODO:</label>
+            <input type="month" name="PERIODO" id="IPERIODO" required>
+        </p>
+
+        <p><label for="IDATE">DATA:</label>
+            <input type="date" name="DATE" id="IDATE" value="2022-11-30" required>
+        </p>
+
+        <p><label for="IHORARIO">HORARIO:</label>
+            <input type="time" name="HORARIO" id="IHORARIO" required>
+        </p>
+
+        <p><label for="IESCOLA">ESCOLA:</label>
+            <input type="text" required minlength="5" maxlength="40" size="40" autocomplete="name" value="BENFICA" name="ESCOLA" id="IESCOLA"> 
+        </p>
+
+        <p>
+            <input type="submit" value="ENVIAR">
+            <input type="reset" value="LIMPAR">
+        </p>
+    </form>
+</body>
+</html>

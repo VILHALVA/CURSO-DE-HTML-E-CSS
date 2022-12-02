@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>CHECKBOX E RADIO BUTTON</title>
+</head>
+<body>
+    <h1>CHECKBOX E RADIO BUTTON</h1>
+    <form action="CADASTRO.php" method="get" autocomplete="on">
+
+        <fieldset>
+            <legend>SEXO</legend>
+
+            <input type="radio" name="SEXO" id="IMASC" value="M"><label for="IMASC">MASCULINO</label><br>
+
+            <input type="radio" name="SEXO" id="IFEM" value="F"><label for="IFEM">FEMININO</label><br>
+        </fieldset><br>
+
+        <fieldset>
+            <legend>ESPORTES FAVORITOS</legend>
+
+            <input type="checkbox" name="ESBAS" id="IESBAS"><label for="IESBAS">FUTEBOL</label><br>
+
+            <input type="checkbox" name="ESFUT" id="IESFUT"><label for="IESFUT">BASQUETE</label><br>
+
+            <input type="checkbox" name="ESNAT" id="IESNAT"><label for="IESNAT">NATAÇÃO</label><br>
+
+            <input type="checkbox" name="ESTEN" id="IESTEN"><label for="IESTEN">TÊNIS</label><br>
+        </fieldset><br>
+
+        <p>
+            <input type="submit" value="ENVIAR">
+            <input type="reset" value="LIMPAR">
+        </p>
+    </form>   
+</body>
+</html>

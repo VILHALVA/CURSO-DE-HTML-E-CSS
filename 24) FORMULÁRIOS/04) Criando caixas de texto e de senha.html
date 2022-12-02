@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>TEXTO E SENHA</title>
+</head>
+<body>
+    <h1>CRIANDO CAIXAS DE TEXTO E DE SENHA</h1>
+    <form method="post" action="CADASTRO.php" autocomplete="on">
+        <p><label for="IUSUARIO">USUARIO:</label> 
+            <input type="text" required minlength="6" maxlength="30" size="40" autocomplete="username" placeholder="SEU USUÁRIO" name="USUARIO" id="IUSUARIO">
+        </p>
+
+        <p><label for="ISENHA">SENHA:</label>  
+           <input type="password" required minlength="5" maxlength="20" placeholder="SUA SENHA" size="40" autocomplete="current-password" name="SENHA" id="ISENHA">
+        </p>
+
+        <p>
+            <input type="submit" value="ENVIAR">
+            <input type="reset" value="LIMPAR">
+        </p>
+    </form>
+</body>
+</html>
