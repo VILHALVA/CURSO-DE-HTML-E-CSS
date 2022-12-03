@@ -69,5 +69,109 @@
 * ✅ CSS Inline
 * ✅ CSS Interno
 * ✅ CSS Externo
+
 # [MODULO 2: ESTILOS COM CSS](https://www.youtube.com/playlist?list=PLHz_AreHm4dlUpEXkY1AyVLQGcpSgVF8s)
+## 13) CORES
+* ✅ Psicologia das cores
+* ✅ Represetando cores com CSS
+* ✅ Harmonia das cores
+* ✅ Paleta de cores
+* ✅ Capturando cores da tela
+* ✅ Criando o Degradê
+* ✅ Criando um exemplo real
+## 14) FONTES
+* ✅ Tipografia
+* ✅ Anatomia do Tipo
+* ✅ Familias das Fontes
+* ✅ Tamanho e Medidas
+* ✅ Peso, Estilo e Shorthand Font
+* ✅ Usando o Google Fontes
+* ✅ Baixando Fontes Externas
+* ✅ Indentificando Fontes
+* ✅ Detectando Fontes em Imagens
+* ✅ Alinhamento de Textos
+## 15) SELETORES
+* ✅ Usando o ID e CLASS
+* ✅ Diferenças entre ID e CLASS
+* ✅ PSEUDO-CLASS
+* ✅ PSEUDO-ELEMENTOS
+## 16) MODELOS DE CAIXAS
+* ✅ Primeiros conceitos
+* ✅ Tipos de caixas
+* ✅ Modelos de caixas
+* ✅ Gouping Tags
+* ✅ Sombra nas Caixas
+* ✅ Vertices arrendodas
+* ✅ Bordas decoradas
+## 17) MINI-PROJETO
+* ✅ Variavéis com CSS
+* ✅ Responsividade
+* ✅ MASCOTE DO ANDROID
+
+# [MODULO 3: HOSPEDAGEM](https://www.youtube.com/playlist?list=PLHz_AreHm4dmcAviDwiGgHbeEJToxbOpZ)
+## 18) GIT E GITHUB
+* ✅ Conceito de Git e Github
+* ✅ Github em vários PCs
+* ✅ Usando o Pages
+* ✅ Colocando o site no ar
+## 19) IMAGENS DE FUNDO
+* ✅ Colocando Imagens de Fundo
+* ✅ Imagens que se repetem
+* ✅ Configurando posição da imagem
+* ✅ Mudando o tamanho da imagem
+* ✅ Backgroud Attachment e Shorthand
+* ✅ Centralização Vertical de caixas
+## 20) PROJETO CORDEL
+* ✅ Responsividade com Fontes
+* ✅ Efeito Parallax Simples
+## 21) CRIANDO TABELAS
+* ✅ Uso de Tabelas no HTML
+* ✅ Primeira Tabela
+* ✅ Alinhando Conteúdo
+* ✅ Tabelas Grandes
+* ✅ Caption e Escopo de Titulos
+* ✅ Efeito Zebrado
+* ✅ Cabeçalho Fixo
+* ✅ Mesclagem de Celulas
+* ✅ Escopo de Grupo
+* ✅ Agrupando Colunas
+* ✅ Tabelas Responsivas
+
+# [MODULO 4: IFRAME E PROJETOS](https://www.youtube.com/playlist?list=PLHz_AreHm4dkcVCk2Bn_fdVQ81Fkrh6WT)
+## 22) FUNDAMENTOS DO IFRAME
+* ✅ Conceito e Fundamentos
+* ✅ Configurando IFRAME
+* ✅ Inserindo conteúdo local
+* ✅ Navegação no IFRAME
+* ✅ Conteúdos Estáticos
+* ✅ Segurança no IFRAME
+* ✅ Dicas sobre IFRAME
+## 23) PROJETO REDES SOCIAIS
+* ✅ Uso de IFRAMES
+* ✅ Uso de Imagens
+* ✅ Colocando no Github Pages
+## 24) FORMULÁRIOS
+* ✅ Usando o Java Script
+* ✅ Login de usuário
+* ✅ Elementos Input
+* ✅ Metodos de formulários
+* ✅ Caixas de Textos
+* ✅ Caixas Numericas
+* ✅ Caixas de Senha
+* ✅ Caixas de Dados
+* ✅ Componentes de telefones
+* ✅ Elementos chackbots
+## 25) MEDIA QUERY
+* ✅ Responsividade Global
+* ✅ Responsividade com layouts diferentes
+* ✅ Media Fiters
+* ✅ Mobile Forts
+* ✅ Menu responsivo
+## 26) PROJETO DE LOGIN RESPONSIVO
+* ✅ Formulários
+* ✅ Media Query
+* ✅ Responsividade Global
+* ✅ Modo retrato de paisagem
+
+
 
