@@ -3,8 +3,6 @@
 
 <img src="01) DESAFIOS/02) IMAGENS/MIDIAS/favicon.ico" align="right" width="300">
 
-# Curso de HTML5 e CSS3
-
 # MODULO 1: SEMÂTICA DO HTML
 ## 01) HISTÓRIA DA INTERNET
 * ✅ Fazendo um Acordo
