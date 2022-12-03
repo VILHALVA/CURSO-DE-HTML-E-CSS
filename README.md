@@ -4,7 +4,7 @@
 <img src="01) DESAFIOS/02) IMAGENS/MIDIAS/favicon.ico" align="right" width="300">
 
 # MODULO 1: SEMÂTICA DO HTML
-## 01) HISTÓRIA DA INTERNET
+## [01) HISTÓRIA DA INTERNET](https://www.youtube.com/playlist?list=PLHz_AreHm4dkZ9-atkcmcBaMZdmLHft8n)
 * ✅ Fazendo um Acordo
 * ✅ Materiais Necessários
 * ✅ Biografias Recomendadas
