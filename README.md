@@ -1,7 +1,7 @@
 # CURSO-DE-HTML-CSS-JS
 👨‍⚖️CURSO COMPRETO DE DESENVOLVIMENTO WEB:  @cursoemvideo
 
-<img src="01) DESAFIOS/02) IMAGENS/MIDIAS/favicon.ico" align="right" width="300">
+<img src="https://www.brasilcode.com.br/wp-content/uploads/2020/05/HTML-e-CSS-Guia-basico-1024x427.png" align="right" width="300">
 
 # [MODULO 1: SEMÂTICA DO HTML](https://www.youtube.com/playlist?list=PLHz_AreHm4dkZ9-atkcmcBaMZdmLHft8n)
 ## 01) HISTÓRIA DA INTERNET
