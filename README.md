@@ -26,4 +26,48 @@
 * ✅ Quebras de Linhas
 * ✅ Incerindo Simbolos
 * ✅ Incerindo Emojis
+## 06) IMAGENS E FAVICON
+* ✅ Direitos Autorais
+* ✅ Formatos dos Arquivos
+* ✅ Tamanhos de Imagens
+* ✅ Inserindo Imagens
+* ✅ Mudando a Favicon
+## 07) HIERARQUIA DE TITULOS
+* ✅ "h1": Titulos Nivel 1
+* ✅ "h2": Subtitulos Nivel 2
+* ✅ "h3": Temática Nivel 1
+* ✅ "h4": Subtemática Nivel 2
+* ✅ "h5": Tópico Nivel 1
+* ✅ "h6": Subtópico Nivel 2
+## 08) FORMATAÇÃO DE TEXTOS
+* ✅ Semântica do HTML
+* ✅ HTML4 X HTML5
+* ✅ Uso de Negrito
+* ✅ Uso de Itálico
+* ✅ Uso de Marcador
+* ✅ Uso de Inserido
+* ✅ Uso de Sobrescrito
+* ✅ Citações e Códigos
+* ✅ Tags Meio inuteis
+## 09) AS LISTAS DO HTML
+* ✅ Listas Ordenadas
+* ✅ Listas Não Ordenadas
+* ✅ Listas Aninhadas
+* ✅ Listas de Definição
+## 10) LIGAÇÕES E LINKS
+* ✅ Links e Âncoras
+* ✅ Links Internos
+* ✅ Links Externos
+* ✅ Links para Download
+## 11) IMAGENS DINÂMICAS E MIDIAS
+* ✅ Imagens Dinâmicas
+* ✅ Imagens Flexivéis
+* ✅ Colocando Audios no site
+* ✅ Colocando Videos Internos
+* ✅ Colocando Videos Externos
+## 12) TRABALHANDO COM ESTILOS
+* ✅ CSS Inline
+* ✅ CSS Interno
+* ✅ CSS Externo
+# [MODULO 2: ESTILOS COM CSS](https://www.youtube.com/playlist?list=PLHz_AreHm4dlUpEXkY1AyVLQGcpSgVF8s)
 
