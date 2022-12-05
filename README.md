@@ -1,5 +1,5 @@
 # CURSO-DE-HTML-CSS-JS
-👨‍⚖️CURSO COMPRETO DE DESENVOLVIMENTO WEB:  @cursoemvideo
+👨‍⚖️CURSO COMPRETO DE DESENVOLVIMENTO WEB.
 
 [![GitHub Repo stars](https://img.shields.io/badge/share%20on-youtube-03A9F4?logo=youtube)](https://www.youtube.com/@CursoemVideo) 
 [![GitHub Repo stars](https://img.shields.io/badge/share%20on-github-03A9F4?logo=github)](https://github.com/cursoemvideo)
