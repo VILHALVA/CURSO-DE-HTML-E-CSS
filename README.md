@@ -1,6 +1,9 @@
 # CURSO-DE-HTML-CSS-JS
 👨‍⚖️CURSO COMPRETO DE DESENVOLVIMENTO WEB:  @cursoemvideo
 
+[![GitHub Repo stars](https://img.shields.io/badge/share%20on-youtube-03A9F4?logo=youtube)](https://www.youtube.com/@CursoemVideo)
+[![GitHub Repo stars](https://img.shields.io/badge/-MODULO%201-red)](https://www.youtube.com/playlist?list=PLHz_AreHm4dkZ9-atkcmcBaMZdmLHft8n)
+
 <img src="https://www.brasilcode.com.br/wp-content/uploads/2020/05/HTML-e-CSS-Guia-basico-1024x427.png" align="center" width="400">
 
 # [MODULO 1: SEMÂTICA DO HTML](https://www.youtube.com/playlist?list=PLHz_AreHm4dkZ9-atkcmcBaMZdmLHft8n)
