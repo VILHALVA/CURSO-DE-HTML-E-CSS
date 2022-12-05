@@ -1,6 +1,9 @@
 # CURSO-DE-HTML-CSS-JS
 👨‍⚖️CURSO COMPRETO DE DESENVOLVIMENTO WEB.
 
+[![GitHub Repo stars](https://img.shields.io/badge/ENTRE%20EM%20CONTATO-TELEGRAM-03A9F4?logo=telegram)](https://t.me/VILHALVA20_BOT)
+[![GitHub Repo stars](https://img.shields.io/badge/PERFIL%20DO%20GITHUB-GITHUB-03A9F4?logo=github)](https://github.com/VILHALVA
+
 [![GitHub Repo stars](https://img.shields.io/badge/CURSO%20EM%20VIDEO-YOUTUBE-03A9F4?logo=youtube)](https://www.youtube.com/@CursoemVideo) 
 [![GitHub Repo stars](https://img.shields.io/badge/CURSO%20EM%20VIDEO-GITHUB-03A9F4?logo=github)](https://github.com/cursoemvideo)
 <br>
