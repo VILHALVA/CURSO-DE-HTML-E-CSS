@@ -1,0 +1,30 @@
+@charset "UTF-8";
+
+/*-------------------------------------
+  DEVICE BREAKPOINTS SEGUNDO W3C:
+---------------------------------------
+> PEQUENAS TELAS = ATÉ 600PX.
+> CELULAR = DE 600PX ATÉ 768PX
+> TABLET = DE 768PX ATÉ 992PX
+> DESKTOP = DE 992PX ATÉ 1200PX
+> TV (TELA GIGANTE) = ACIMA DE 1200PX 
+--------------------------------------*/
+
+@media screen and (min-width: 768px) {
+    span#burguer {
+        display: none;
+    }
+
+    menu {
+        display: block;
+    }
+
+    menu > ul > li {
+        display: inline-block;
+    }
+
+    main {
+        width: 768px;
+    }
+}
+
