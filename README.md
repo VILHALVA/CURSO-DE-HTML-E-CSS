@@ -1,14 +1,8 @@
 # CURSO-DE-HTML-CSS-JS
 👨‍⚖️CURSO COMPRETO DE DESENVOLVIMENTO WEB.
 
-[![GitHub Repo stars](https://img.shields.io/badge/MEU%20PERFIL-GITHUB-03A9F4?logo=github)](https://github.com/VILHALVA)
-[![GitHub Repo stars](https://img.shields.io/badge/ENTRE%20EM%20CONTATO-TELEGRAM-03A9F4?logo=telegram)](https://t.me/VILHALVA20_BOT) <br>
-
-[![GitHub Repo stars](https://img.shields.io/badge/GRUPO%20CODERS-TELEGRAM-03A9F4?logo=telegram)](https://t.me/CODIGOGP)
-[![GitHub Repo stars](https://img.shields.io/badge/CANAL%20CODERS-TELEGRAM-03A9F4?logo=telegram)](https://t.me/CODIGOCN) <br>
-
-[![GitHub Repo stars](https://img.shields.io/badge/CURSO%20EM%20VIDEO-YOUTUBE-03A9F4?logo=youtube)](https://www.youtube.com/@CursoemVideo) 
-[![GitHub Repo stars](https://img.shields.io/badge/CURSO%20EM%20VIDEO-GITHUB-03A9F4?logo=github)](https://github.com/cursoemvideo)
+[![GitHub Repo stars](https://img.shields.io/badge/CURSO%20EM%20VIDEO-03A9F4?logo=youtube)](https://www.youtube.com/@CursoemVideo) 
+[![GitHub Repo stars](https://img.shields.io/badge/CURSO%20EM%20VIDEO-03A9F4?logo=github)](https://github.com/cursoemvideo)
 <br>
 
 [![GitHub Repo stars](https://img.shields.io/badge/-MODULO%201-blueviolet)](https://www.youtube.com/playlist?list=PLHz_AreHm4dkZ9-atkcmcBaMZdmLHft8n)
@@ -16,7 +10,7 @@
 [![GitHub Repo stars](https://img.shields.io/badge/-MODULO%203-blueviolet)](https://www.youtube.com/playlist?list=PLHz_AreHm4dmcAviDwiGgHbeEJToxbOpZ)
 [![GitHub Repo stars](https://img.shields.io/badge/-MODULO%204-blueviolet)](https://www.youtube.com/playlist?list=PLHz_AreHm4dkcVCk2Bn_fdVQ81Fkrh6WT)
 
-<img src="https://www.brasilcode.com.br/wp-content/uploads/2020/05/HTML-e-CSS-Guia-basico-1024x427.png" align="center" width="300"> <br>
+<img src="https://play-lh.googleusercontent.com/RslBy1o2NEBYUdRjQtUqLbN-ZM2hpks1mHPMiHMrpAuLqxeBPcFSAjo65nQHbTA53YYn" align="center" width="300"> <br>
 
 # [MODULO 1: SEMÂTICA DO HTML](https://www.youtube.com/playlist?list=PLHz_AreHm4dkZ9-atkcmcBaMZdmLHft8n)
 ## 01) HISTÓRIA DA INTERNET
