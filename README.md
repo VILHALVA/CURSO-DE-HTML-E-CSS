@@ -3,6 +3,10 @@
 
 [![GitHub Repo stars](https://img.shields.io/badge/VILHALVA-GITHUB-03A9F4?logo=github)](https://github.com/VILHALVA) <br>
 
+[![GitHub Repo stars](https://img.shields.io/badge/VEJA%20DOCUMENTAÇÃO-HTML-03A9F4?logo=google)](https://developer.mozilla.org/en-US/docs/Web/HTML) 
+[![GitHub Repo stars](https://img.shields.io/badge/VEJA%20DOCUMENTAÇÃO-CSS-03A9F4?logo=google)](https://developer.mozilla.org/en-US/docs/Web/CSS)
+[![GitHub Repo stars](https://img.shields.io/badge/VEJA%20DOCUMENTAÇÃO-JAVASCRIPT-03A9F4?logo=google)](https://devdocs.io/javascript/) <br>
+
 [![GitHub Repo stars](https://img.shields.io/badge/-MODULO%201-blueviolet)](https://www.youtube.com/playlist?list=PLHz_AreHm4dkZ9-atkcmcBaMZdmLHft8n)
 [![GitHub Repo stars](https://img.shields.io/badge/-MODULO%202-blueviolet)](https://www.youtube.com/playlist?list=PLHz_AreHm4dlUpEXkY1AyVLQGcpSgVF8s)
 [![GitHub Repo stars](https://img.shields.io/badge/-MODULO%203-blueviolet)](https://www.youtube.com/playlist?list=PLHz_AreHm4dmcAviDwiGgHbeEJToxbOpZ)
