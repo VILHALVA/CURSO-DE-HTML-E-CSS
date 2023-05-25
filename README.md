@@ -14,6 +14,12 @@
 
 <img src="https://play-lh.googleusercontent.com/RslBy1o2NEBYUdRjQtUqLbN-ZM2hpks1mHPMiHMrpAuLqxeBPcFSAjo65nQHbTA53YYn" align="center" width="300"> <br>
 
+# REQUESITOS:
+* ✅[INSTALAR O GIT](https://git-scm.com/book/pt-br/v2/Come%C3%A7ando-Instalando-o-Git)
+* ✅[CONHECER O GITHUB](https://github.com/)
+* ✅[INSTALAR O CHROME](https://www.google.com/chrome/?brand=BNSD&gclid=Cj0KCQjwjryjBhD0ARIsAMLvnF9tfhFqF-gR1a4t4RrLrRRkB-tEcwKu3CQ5eZdbQSgsQj0_2gBikjQaAjaGEALw_wcB&gclsrc=aw.ds)
+* ✅[INSTALAR O VISUAL STUDIO CODE](https://code.visualstudio.com/download)
+
 # [MODULO 1: SEMÂTICA DO HTML](https://www.youtube.com/playlist?list=PLHz_AreHm4dkZ9-atkcmcBaMZdmLHft8n)
 ## 01) HISTÓRIA DA INTERNET
 * ✅ Fazendo um Acordo
