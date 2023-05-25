@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>TELEFONE E E-MAIL</title>
+</head>
+<body>
+    <h1>FORMULARIOS COM TELEFONE E E-MAIL</h1>
+    <form method="get" action="CADASTRO.php" autocomplete="on">
+        <fieldset>
+            <legend>DADOS PESSOAIS</legend>
+            <p><label for="INOME">NOME:</label> 
+                <input type="text" required minlength="5" maxlength="40" size="40" autocomplete="name" placeholder="NOME COMPRETO" name="NOME" id="INOME">
+            </p>
+    
+            <p><label for="IEMAIL">E-MAIL:</label> 
+                <input type="email" required minlength="5" maxlength="40" size="40" autocomplete="name" placeholder="SEU E-MAIL" name="EMAIL" id="IEMAIL">
+            </p>
+            
+            <p>
+            <label for="ITELEFONE">TELEFONE:</label>
+                <input type="tel" name="TELEFONE" id="ITELEFONE" autocomplete="tel" required pattern="^\(\d{2}\)-\d{4,5}-\d{4,5}$" placeholder="(00)-0000-0000">
+            </p>
+        </fieldset>
+       
+        <p>
+            <input type="submit" value="ENVIAR">
+            <input type="reset" value="LIMPAR">
+        </p>
+    </form>
+</body>
+</html>

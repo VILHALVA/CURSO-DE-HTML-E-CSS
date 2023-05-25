@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>SELECT DADALIST TEXTAREA</title>
+</head>
+<body>
+    <h1>SELECT, DADALIST E TEXTAREA</h1>
+    <form action="CADASTRO.php" method="post" autocomplete="on">
+        <h2>SELECT:</h2>
+        <p>
+            <label for="IEST">ESTADO:</label>
+            <select name="EST" id="IEST">
+                <option value="" selected>-----ESCOLHA------</option>
+                <optgroup label="REGIÃO SUDESTE:">
+                    <option value="MG">MATO GROSSO</option>
+                    <option value="SP">SÃO PAULO</option>
+                    <option value="RJ">RIO DE JANEIRO</option>
+                </optgroup>
+                
+                <optgroup label="REGIÃO NORDESTE:">
+                    <option value="MA">MARANHÃO</option>
+                    <option value="PE">PERNAMBUCO</option>
+                    <option value="RN">RIO GRANDE DO NORTE</option>
+                </optgroup>              
+            </select>
+        </p>
+
+        <h2>DADALIST:</h2>
+        <p>
+            <label for="IPROF">PROFISSÃO:</label>
+            <input type="text" name="PROF" id="IPROF" list="LISPROF">
+            <datalist id="LISPROF">
+                <option>ADMINISTRADOR</option>
+                <option>CONTABILISTA</option>
+                <option>DESENVOLVEDOR</option>
+                <option>PROFESSOR</option>              
+            </datalist>
+        </p>
+
+        <h2>TEXTAREA:</h2>
+        <p>
+            <label for="IMSG">MENSAGEM:</label><br>
+            <textarea name="MSG" id="IMSG" cols="30" rows="10"></textarea>
+        </p>
+        <p>
+            <input type="submit" value="ENVIAR">
+            <input type="reset" value="LIMPAR">
+        </p>
+
+    </form>
+</body>
+</html>
