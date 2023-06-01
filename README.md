@@ -15,180 +15,180 @@
 <img src="https://play-lh.googleusercontent.com/RslBy1o2NEBYUdRjQtUqLbN-ZM2hpks1mHPMiHMrpAuLqxeBPcFSAjo65nQHbTA53YYn" align="center" width="300"> <br>
 
 # REQUESITOS:
-* ✅[INSTALAR O GIT](https://git-scm.com/book/pt-br/v2/Come%C3%A7ando-Instalando-o-Git)
-* ✅[CONHECER O GITHUB](https://github.com/)
-* ✅[INSTALAR O CHROME](https://www.google.com/chrome/?brand=BNSD&gclid=Cj0KCQjwjryjBhD0ARIsAMLvnF9tfhFqF-gR1a4t4RrLrRRkB-tEcwKu3CQ5eZdbQSgsQj0_2gBikjQaAjaGEALw_wcB&gclsrc=aw.ds)
-* ✅[INSTALAR O VISUAL STUDIO CODE](https://code.visualstudio.com/download)
+* 💻[INSTALAR O GIT](https://git-scm.com/book/pt-br/v2/Come%C3%A7ando-Instalando-o-Git)
+* 🤯[CONHECER O GITHUB](https://github.com)
+* 💻[INSTALAR O CHROME](https://www.google.com/chrome/?brand=BNSD&gclid=Cj0KCQjwjryjBhD0ARIsAMLvnF9tfhFqF-gR1a4t4RrLrRRkB-tEcwKu3CQ5eZdbQSgsQj0_2gBikjQaAjaGEALw_wcB&gclsrc=aw.ds)
+* 💻[INSTALAR O VISUAL STUDIO CODE](https://code.visualstudio.com/download)
 
 # [MODULO 1: SEMÂTICA DO HTML](https://www.youtube.com/playlist?list=PLHz_AreHm4dkZ9-atkcmcBaMZdmLHft8n)
 ## 01) HISTÓRIA DA INTERNET
-* ✅ Fazendo um Acordo
-* ✅ Materiais Necessários
-* ✅ Biografias Recomendadas
+* ✅ FAZENDO UM ACORDO
+* ✅ MATERIAIS NECESSÁRIOS
+* ✅ BIOGRAFIAS RECOMENDADAS
 ## 02) COMO FUNCIONA A INTERNET
-* ✅ Como a internet funciona
-* ✅ Dominio e Hospedagem
+* ✅ COMO A INTERNET FUNCIONA
+* ✅ DOMINIO E HOSPEDAGEM
 ## 03) COMO FUNCIONA HTML E CSS
-* ✅ A diferença entre HTML, CSS e JS
-* ✅ Front-End
-* ✅ Back-End
-* ✅ Full-Stack
+* ✅ A DIFERENÇA ENTRE HTML, CSS E JS
+* ✅ FRONT-END
+* ✅ BACK-END
+* ✅ FULL-STACK
 ## 04) PRIMEIROS PASSOS EM HTML
-* ✅ Estrutura do HTML
-* ✅ Configurando o "head"
-* ✅ Conteúdo no "body"
-* ✅ Primeiro código em HTML
+* ✅ ESTRUTURA DO HTML
+* ✅ CONFIGURANDO O "HEAD"
+* ✅ CONTEÚDO NO "BODY"
+* ✅ PRIMEIRO CÓDIGO EM HTML
 ## 05) CARACTERES, PARAGRAFOS E QUEBRAS
-* ✅ Colocando Parágrafos
-* ✅ Quebras de Linhas
-* ✅ Incerindo Simbolos
-* ✅ Incerindo Emojis
+* ✅ COLOCANDO PARÁGRAFOS
+* ✅ QUEBRAS DE LINHAS
+* ✅ INCERINDO SIMBOLOS
+* ✅ INCERINDO EMOJIS
 ## 06) IMAGENS E FAVICON
-* ✅ Direitos Autorais
-* ✅ Formatos dos Arquivos
-* ✅ Tamanhos de Imagens
-* ✅ Inserindo Imagens
-* ✅ Mudando a Favicon
+* ✅ DIREITOS AUTORAIS
+* ✅ FORMATOS DOS ARQUIVOS
+* ✅ TAMANHOS DE IMAGENS
+* ✅ INSERINDO IMAGENS
+* ✅ MUDANDO A FAVICON
 ## 07) HIERARQUIA DE TITULOS
-* ✅ "h1": Titulos Nivel 1
-* ✅ "h2": Subtitulos Nivel 2
-* ✅ "h3": Temática Nivel 1
-* ✅ "h4": Subtemática Nivel 2
-* ✅ "h5": Tópico Nivel 1
-* ✅ "h6": Subtópico Nivel 2
+* ✅ "H1": TITULOS NIVEL 1
+* ✅ "H2": SUBTITULOS NIVEL 2
+* ✅ "H3": TEMÁTICA NIVEL 1
+* ✅ "H4": SUBTEMÁTICA NIVEL 2
+* ✅ "H5": TÓPICO NIVEL 1
+* ✅ "H6": SUBTÓPICO NIVEL 2
 ## 08) FORMATAÇÃO DE TEXTOS
-* ✅ Semântica do HTML
+* ✅ SEMÂNTICA DO HTML
 * ✅ HTML4 X HTML5
-* ✅ Uso de Negrito
-* ✅ Uso de Itálico
-* ✅ Uso de Marcador
-* ✅ Uso de Inserido
-* ✅ Uso de Sobrescrito
-* ✅ Citações e Códigos
-* ✅ Tags Meio inuteis
+* ✅ USO DE NEGRITO
+* ✅ USO DE ITÁLICO
+* ✅ USO DE MARCADOR
+* ✅ USO DE INSERIDO
+* ✅ USO DE SOBRESCRITO
+* ✅ CITAÇÕES E CÓDIGOS
+* ✅ TAGS MEIO INUTEIS
 ## 09) AS LISTAS DO HTML
-* ✅ Listas Ordenadas
-* ✅ Listas Não Ordenadas
-* ✅ Listas Aninhadas
-* ✅ Listas de Definição
+* ✅ LISTAS ORDENADAS
+* ✅ LISTAS NÃO ORDENADAS
+* ✅ LISTAS ANINHADAS
+* ✅ LISTAS DE DEFINIÇÃO
 ## 10) LIGAÇÕES E LINKS
-* ✅ Links e Âncoras
-* ✅ Links Internos
-* ✅ Links Externos
-* ✅ Links para Download
+* ✅ LINKS E ÂNCORAS
+* ✅ LINKS INTERNOS
+* ✅ LINKS EXTERNOS
+* ✅ LINKS PARA DOWNLOAD
 ## 11) IMAGENS DINÂMICAS E MIDIAS
-* ✅ Imagens Dinâmicas
-* ✅ Imagens Flexivéis
-* ✅ Colocando Audios no site
-* ✅ Colocando Videos Internos
-* ✅ Colocando Videos Externos
+* ✅ IMAGENS DINÂMICAS
+* ✅ IMAGENS FLEXIVÉIS
+* ✅ COLOCANDO AUDIOS NO SITE
+* ✅ COLOCANDO VIDEOS INTERNOS
+* ✅ COLOCANDO VIDEOS EXTERNOS
 ## 12) TRABALHANDO COM ESTILOS
-* ✅ CSS Inline
-* ✅ CSS Interno
-* ✅ CSS Externo
+* ✅ CSS INLINE
+* ✅ CSS INTERNO
+* ✅ CSS EXTERNO
 
 # [MODULO 2: ESTILOS COM CSS](https://www.youtube.com/playlist?list=PLHz_AreHm4dlUpEXkY1AyVLQGcpSgVF8s)
 ## 13) CORES
-* ✅ Psicologia das cores
-* ✅ Represetando cores com CSS
-* ✅ Harmonia das cores
-* ✅ Paleta de cores
-* ✅ Capturando cores da tela
-* ✅ Criando o Degradê
-* ✅ Criando um exemplo real
+* ✅ PSICOLOGIA DAS CORES
+* ✅ REPRESETANDO CORES COM CSS
+* ✅ HARMONIA DAS CORES
+* ✅ PALETA DE CORES
+* ✅ CAPTURANDO CORES DA TELA
+* ✅ CRIANDO O DEGRADÊ
+* ✅ CRIANDO UM EXEMPLO REAL
 ## 14) FONTES
-* ✅ Tipografia
-* ✅ Anatomia do Tipo
-* ✅ Familias das Fontes
-* ✅ Tamanho e Medidas
-* ✅ Peso, Estilo e Shorthand Font
-* ✅ Usando o Google Fontes
-* ✅ Baixando Fontes Externas
-* ✅ Indentificando Fontes
-* ✅ Detectando Fontes em Imagens
-* ✅ Alinhamento de Textos
+* ✅ TIPOGRAFIA
+* ✅ ANATOMIA DO TIPO
+* ✅ FAMILIAS DAS FONTES
+* ✅ TAMANHO E MEDIDAS
+* ✅ PESO, ESTILO E SHORTHAND FONT
+* ✅ USANDO O GOOGLE FONTES
+* ✅ BAIXANDO FONTES EXTERNAS
+* ✅ INDENTIFICANDO FONTES
+* ✅ DETECTANDO FONTES EM IMAGENS
+* ✅ ALINHAMENTO DE TEXTOS
 ## 15) SELETORES
-* ✅ Usando o ID e CLASS
-* ✅ Diferenças entre ID e CLASS
+* ✅ USANDO O ID E CLASS
+* ✅ DIFERENÇAS ENTRE ID E CLASS
 * ✅ PSEUDO-CLASS
 * ✅ PSEUDO-ELEMENTOS
 ## 16) MODELOS DE CAIXAS
-* ✅ Primeiros conceitos
-* ✅ Tipos de caixas
-* ✅ Modelos de caixas
-* ✅ Gouping Tags
-* ✅ Sombra nas Caixas
-* ✅ Vertices arrendodas
-* ✅ Bordas decoradas
+* ✅ PRIMEIROS CONCEITOS
+* ✅ TIPOS DE CAIXAS
+* ✅ MODELOS DE CAIXAS
+* ✅ GOUPING TAGS
+* ✅ SOMBRA NAS CAIXAS
+* ✅ VERTICES ARRENDODAS
+* ✅ BORDAS DECORADAS
 ## 17) MINI-PROJETO
-* ✅ Variavéis com CSS
-* ✅ Responsividade
+* ✅ VARIAVÉIS COM CSS
+* ✅ RESPONSIVIDADE
 * ✅ MASCOTE DO ANDROID
 
 # [MODULO 3: HOSPEDAGEM](https://www.youtube.com/playlist?list=PLHz_AreHm4dmcAviDwiGgHbeEJToxbOpZ)
 ## 18) GIT E GITHUB
-* ✅ Conceito de Git e Github
-* ✅ Github em vários PCs
-* ✅ Usando o Pages
-* ✅ Colocando o site no ar
+* ✅ CONCEITO DE GIT E GITHUB
+* ✅ GITHUB EM VÁRIOS PCS
+* ✅ USANDO O PAGES
+* ✅ COLOCANDO O SITE NO AR
 ## 19) IMAGENS DE FUNDO
-* ✅ Colocando Imagens de Fundo
-* ✅ Imagens que se repetem
-* ✅ Configurando posição da imagem
-* ✅ Mudando o tamanho da imagem
-* ✅ Backgroud Attachment e Shorthand
-* ✅ Centralização Vertical de caixas
+* ✅ COLOCANDO IMAGENS DE FUNDO
+* ✅ IMAGENS QUE SE REPETEM
+* ✅ CONFIGURANDO POSIÇÃO DA IMAGEM
+* ✅ MUDANDO O TAMANHO DA IMAGEM
+* ✅ BACKGROUD ATTACHMENT E SHORTHAND
+* ✅ CENTRALIZAÇÃO VERTICAL DE CAIXAS
 ## 20) PROJETO CORDEL
-* ✅ Responsividade com Fontes
-* ✅ Efeito Parallax Simples
+* ✅ RESPONSIVIDADE COM FONTES
+* ✅ EFEITO PARALLAX SIMPLES
 ## 21) CRIANDO TABELAS
-* ✅ Uso de Tabelas no HTML
-* ✅ Primeira Tabela
-* ✅ Alinhando Conteúdo
-* ✅ Tabelas Grandes
-* ✅ Caption e Escopo de Titulos
-* ✅ Efeito Zebrado
-* ✅ Cabeçalho Fixo
-* ✅ Mesclagem de Celulas
-* ✅ Escopo de Grupo
-* ✅ Agrupando Colunas
-* ✅ Tabelas Responsivas
+* ✅ USO DE TABELAS NO HTML
+* ✅ PRIMEIRA TABELA
+* ✅ ALINHANDO CONTEÚDO
+* ✅ TABELAS GRANDES
+* ✅ CAPTION E ESCOPO DE TITULOS
+* ✅ EFEITO ZEBRADO
+* ✅ CABEÇALHO FIXO
+* ✅ MESCLAGEM DE CELULAS
+* ✅ ESCOPO DE GRUPO
+* ✅ AGRUPANDO COLUNAS
+* ✅ TABELAS RESPONSIVAS
 
 # [MODULO 4: IFRAME E PROJETOS](https://www.youtube.com/playlist?list=PLHz_AreHm4dkcVCk2Bn_fdVQ81Fkrh6WT)
 ## 22) FUNDAMENTOS DO IFRAME
-* ✅ Conceito e Fundamentos
-* ✅ Configurando IFRAME
-* ✅ Inserindo conteúdo local
-* ✅ Navegação no IFRAME
-* ✅ Conteúdos Estáticos
-* ✅ Segurança no IFRAME
-* ✅ Dicas sobre IFRAME
+* ✅ CONCEITO E FUNDAMENTOS
+* ✅ CONFIGURANDO IFRAME
+* ✅ INSERINDO CONTEÚDO LOCAL
+* ✅ NAVEGAÇÃO NO IFRAME
+* ✅ CONTEÚDOS ESTÁTICOS
+* ✅ SEGURANÇA NO IFRAME
+* ✅ DICAS SOBRE IFRAME
 ## 23) PROJETO REDES SOCIAIS
-* ✅ Uso de IFRAMES
-* ✅ Uso de Imagens
-* ✅ Colocando no Github Pages
+* ✅ USO DE IFRAMES
+* ✅ USO DE IMAGENS
+* ✅ COLOCANDO NO GITHUB PAGES
 ## 24) FORMULÁRIOS
-* ✅ Usando o Java Script
-* ✅ Login de usuário
-* ✅ Elementos Input
-* ✅ Metodos de formulários
-* ✅ Caixas de Textos
-* ✅ Caixas Numericas
-* ✅ Caixas de Senha
-* ✅ Caixas de Dados
-* ✅ Componentes de telefones
-* ✅ Elementos chackbots
+* ✅ USANDO O JAVA SCRIPT
+* ✅ LOGIN DE USUÁRIO
+* ✅ ELEMENTOS INPUT
+* ✅ METODOS DE FORMULÁRIOS
+* ✅ CAIXAS DE TEXTOS
+* ✅ CAIXAS NUMERICAS
+* ✅ CAIXAS DE SENHA
+* ✅ CAIXAS DE DADOS
+* ✅ COMPONENTES DE TELEFONES
+* ✅ ELEMENTOS CHACKBOTS
 ## 25) MEDIA QUERY
-* ✅ Responsividade Global
-* ✅ Responsividade com layouts diferentes
-* ✅ Media Fiters
-* ✅ Mobile Forts
-* ✅ Menu responsivo
+* ✅ RESPONSIVIDADE GLOBAL
+* ✅ RESPONSIVIDADE COM LAYOUTS DIFERENTES
+* ✅ MEDIA FITERS
+* ✅ MOBILE FORTS
+* ✅ MENU RESPONSIVO
 ## 26) PROJETO DE LOGIN RESPONSIVO
-* ✅ Formulários
-* ✅ Media Query
-* ✅ Responsividade Global
-* ✅ Modo retrato de paisagem
+* ✅ FORMULÁRIOS
+* ✅ MEDIA QUERY
+* ✅ RESPONSIVIDADE GLOBAL
+* ✅ MODO RETRATO DE PAISAGEM
 
 
 
