@@ -12,7 +12,7 @@
 [![GitHub Repo stars](https://img.shields.io/badge/-MODULO%203-blueviolet)](https://www.youtube.com/playlist?list=PLHz_AreHm4dmcAviDwiGgHbeEJToxbOpZ)
 [![GitHub Repo stars](https://img.shields.io/badge/-MODULO%204-blueviolet)](https://www.youtube.com/playlist?list=PLHz_AreHm4dkcVCk2Bn_fdVQ81Fkrh6WT)
 
-<img src="https://play-lh.googleusercontent.com/RslBy1o2NEBYUdRjQtUqLbN-ZM2hpks1mHPMiHMrpAuLqxeBPcFSAjo65nQHbTA53YYn" align="center" width="300"> <br>
+<img src="https://camo.githubusercontent.com/6ed9c2c50ea2a6dc8fa23f8f41fcb98aebf2b0eb4e816c7c85247280331bd4fa/68747470733a2f2f796f67656e6472612e6d652f323031372f30372f32302f6d6967726174696f6e2d6d616e69612f68746d6c2d6a732d6373732e706e67" align="center" width="300"> <br>
 
 # REQUESITOS:
 * 💻[INSTALAR O GIT](https://git-scm.com/book/pt-br/v2/Come%C3%A7ando-Instalando-o-Git)
