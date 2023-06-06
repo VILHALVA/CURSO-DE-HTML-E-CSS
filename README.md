@@ -195,6 +195,22 @@
 ![](https://i.imgur.com/waxVImv.png)
 # 🤳SINTAXE DA LINGUAGEM:
 ## 🔶HTML:
+### VISÃO PANORÂMICA:
+| PERGUNTA | RESPOSTA |
+| :---: | :---: |
+| DATA DE CRIAÇÃO | 1990 |
+| NOME DO CRIADOR | Equipe de cientistas e engenheiros liderada por Tim Berners-Lee | 
+| SIGNIFICADO DO NOME | O nome "HTML" deriva de "HyperText" (hipertexto) e "Markup Language" (linguagem de marcação) |
+| EXTENÇÃO DO ARQUIVO | .html |
+| É MAIS USADA | Apenas Desenvolvimento Web |
+
+* O HTML (HyperText Markup Language) foi desenvolvido por uma equipe de cientistas e engenheiros liderada por Tim Berners-Lee. O HTML foi criado como parte do projeto World Wide Web (WWW) no CERN (Organização Europeia para a Pesquisa Nuclear) no início dos anos 1990.
+* O HTML é uma linguagem de marcação que permite a estruturação e apresentação de conteúdo na web. Ele define a estrutura dos elementos de uma página web usando tags e atributos. Através do HTML, é possível criar links, formatar texto, inserir imagens, criar formulários e muitas outras coisas que são essenciais para a criação de páginas web.
+* O nome "HTML" deriva de "HyperText" (hipertexto) e "Markup Language" (linguagem de marcação). O termo "hipertexto" refere-se ao conceito de criar um sistema de documentos interconectados através de links. A "linguagem de marcação" se refere à utilização de tags para marcar diferentes partes do conteúdo e definir sua função e aparência.
+* Em essência, o HTML é a base da web moderna. Ele fornece a estrutura fundamental para a criação de páginas web e permite a interconexão de informações através de links. O HTML é interpretado pelos navegadores web, que exibem o conteúdo de acordo com as marcações e estilos definidos no código HTML.
+* O HTML evoluiu ao longo dos anos, com novas versões e recursos sendo introduzidos para atender às demandas crescentes da web. Atualmente, a versão mais recente é o HTML5, que trouxe melhorias significativas em termos de recursos multimídia, elementos semânticos, APIs e suporte para dispositivos móveis.
+* Em suma, o HTML foi desenvolvido por Tim Berners-Lee e sua equipe no CERN como parte do projeto World Wide Web. Ele permite a estruturação e apresentação de conteúdo na web e é a base para a criação de páginas web interconectadas. O nome "HTML" deriva de "HyperText Markup Language" e reflete a capacidade de marcar e estruturar informações na web.
+
 ### CÓDIGO:
 
  ````
@@ -283,6 +299,21 @@ O HTML (HyperText Markup Language) é uma linguagem de marcação utilizada para
 * **8 - Estruturação de dados:** O HTML também pode ser utilizado para estruturar dados, utilizando elementos como \<table>, \<ul>, \<ol>, \<dl>, entre outros, para criar listas, tabelas e definições.
  
 ## 🔷CSS:
+### VISÃO PANORÂMICA:
+| PERGUNTA | RESPOSTA |
+| :---: | :---: |
+| DATA DE CRIAÇÃO | 1996 |
+| NOME DO CRIADOR | Equipe liderada por Håkon Wium Lie e Bert Bos | 
+| SIGNIFICADO DO NOME | O nome "CSS" deriva de "Cascading" (cascata) |
+| EXTENÇÃO DO ARQUIVO | .css |
+| É MAIS USADA | Apenas Desenvolvimento Web |
+
+* O CSS (Cascading Style Sheets) foi desenvolvido por uma equipe liderada por Håkon Wium Lie e Bert Bos. O trabalho inicial em CSS começou no final da década de 1990, e a primeira especificação do CSS, conhecida como CSS1, foi publicada em dezembro de 1996 pelo World Wide Web Consortium (W3C).
+* O CSS é uma linguagem de estilo utilizada para definir a apresentação e a formatação de documentos HTML e XML. Com o CSS, é possível controlar o layout, as cores, as fontes, os efeitos visuais e outros aspectos visuais de uma página web. Ele separa o conteúdo da apresentação, permitindo que os desenvolvedores apliquem estilos consistentes em várias páginas e simplifiquem a manutenção e atualização do design de um site.
+* O nome "CSS" deriva de "Cascading" (cascata), referindo-se à forma como as regras de estilo são aplicadas em cascata, ou seja, a partir das regras mais específicas para as mais gerais. Isso permite que as propriedades de estilo sejam herdadas e substituídas conforme necessário, oferecendo maior flexibilidade e controle sobre o design de uma página.
+* O CSS evoluiu ao longo dos anos com o lançamento de novas versões, como CSS2, CSS3 e CSS4. Cada versão trouxe recursos e funcionalidades adicionais para melhorar a experiência de design e estilização de páginas web.
+* Em resumo, o CSS foi criado por Håkon Wium Lie e Bert Bos e é uma linguagem de estilo utilizada para definir a apresentação e a formatação de documentos HTML e XML. Ele separa o conteúdo da apresentação, permitindo o controle e a personalização do design de uma página web. O nome "CSS" deriva de "Cascading Style Sheets" e reflete a forma como as regras de estilo são aplicadas em cascata.
+
 ### CÓDIGO:
 ````
 /* Estilos CSS */
