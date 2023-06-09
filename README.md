@@ -8,6 +8,7 @@
 [![GitHub Repo stars](https://img.shields.io/badge/VEJA%20DOCUMENTAÇÃO-JAVASCRIPT-03A9F4?logo=google)](https://devdocs.io/javascript/) <br>
 
 [![GitHub Repo stars](https://img.shields.io/badge/CURSO%20DE-JAVASCRIPT-03A9F4?logo=github)](https://github.com/VILHALVA/CURSO-DE-JAVASCRIPT)
+[![GitHub Repo stars](https://img.shields.io/badge/CURSO%20DE-PHP-03A9F4?logo=github)](https://github.com/VILHALVA/CURSO-DE-PHP)
 
 [![GitHub Repo stars](https://img.shields.io/badge/-MODULO%201-blueviolet)](https://www.youtube.com/playlist?list=PLHz_AreHm4dkZ9-atkcmcBaMZdmLHft8n)
 [![GitHub Repo stars](https://img.shields.io/badge/-MODULO%202-blueviolet)](https://www.youtube.com/playlist?list=PLHz_AreHm4dlUpEXkY1AyVLQGcpSgVF8s)
