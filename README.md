@@ -213,7 +213,7 @@
 
 ### CÓDIGO:
 
- ````
+ ````html
 # HTML
 <!DOCTYPE html>
 <html lang="en">
@@ -315,7 +315,7 @@ O HTML (HyperText Markup Language) é uma linguagem de marcação utilizada para
 * Em resumo, o CSS foi criado por Håkon Wium Lie e Bert Bos e é uma linguagem de estilo utilizada para definir a apresentação e a formatação de documentos HTML e XML. Ele separa o conteúdo da apresentação, permitindo o controle e a personalização do design de uma página web. O nome "CSS" deriva de "Cascading Style Sheets" e reflete a forma como as regras de estilo são aplicadas em cascata.
 
 ### CÓDIGO:
-````
+````css
 /* Estilos CSS */
 body {
   font-family: "Arial", sans-serif;
