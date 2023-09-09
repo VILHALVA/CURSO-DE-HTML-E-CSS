@@ -193,6 +193,10 @@
 * ✅ RESPONSIVIDADE GLOBAL
 * ✅ MODO RETRATO DE PAISAGEM
 
+# 📹VIDEOS DO YOUTUBE:
+* [CRIANDO SITE EXPONTANEO COM HTML E CSS](https://youtu.be/HQjbzHJjkRM?si=SuSEBUik3787iY7h)
+* [CRIANDO SITE CORDEL COM HTML E CSS](https://youtu.be/SZbb-XPe6ys?si=9ZPTpk2aVfRkhqed)
+
 ![](https://i.imgur.com/waxVImv.png)
 # 🤳SINTAXE DA LINGUAGEM:
 ## 🔶HTML:
