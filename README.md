@@ -1,14 +1,12 @@
 # CURSO-DE-HTML-CSS-JS
 👨‍⚖️CURSO COMPRETO DE DESENVOLVIMENTO WEB.
 
-[![GitHub Repo stars](https://img.shields.io/badge/VILHALVA-GITHUB-03A9F4?logo=github)](https://github.com/VILHALVA) <br>
+[![GitHub Repo stars](https://img.shields.io/badge/VILHALVA-GITHUB-03A9F4?logo=github)](https://github.com/VILHALVA) 
+[![GitHub Repo stars](https://img.shields.io/badge/VEJA%20OS-VIDEOS-03A9F4?logo=youtube)](https://www.youtube.com/@vilhalva100/search?query=HTMLCSS)<br>
 
 [![GitHub Repo stars](https://img.shields.io/badge/VEJA%20DOCUMENTAÇÃO-HTML-03A9F4?logo=google)](https://developer.mozilla.org/en-US/docs/Web/HTML) 
 [![GitHub Repo stars](https://img.shields.io/badge/VEJA%20DOCUMENTAÇÃO-CSS-03A9F4?logo=google)](https://developer.mozilla.org/en-US/docs/Web/CSS)
 [![GitHub Repo stars](https://img.shields.io/badge/VEJA%20DOCUMENTAÇÃO-JAVASCRIPT-03A9F4?logo=google)](https://devdocs.io/javascript/) <br>
-
-[![GitHub Repo stars](https://img.shields.io/badge/CURSO%20DE-JAVASCRIPT-03A9F4?logo=github)](https://github.com/VILHALVA/CURSO-DE-JAVASCRIPT)
-[![GitHub Repo stars](https://img.shields.io/badge/CURSO%20DE-PHP-03A9F4?logo=github)](https://github.com/VILHALVA/CURSO-DE-PHP)
 
 [![GitHub Repo stars](https://img.shields.io/badge/-MODULO%201-blueviolet)](https://www.youtube.com/playlist?list=PLHz_AreHm4dkZ9-atkcmcBaMZdmLHft8n)
 [![GitHub Repo stars](https://img.shields.io/badge/-MODULO%202-blueviolet)](https://www.youtube.com/playlist?list=PLHz_AreHm4dlUpEXkY1AyVLQGcpSgVF8s)
@@ -17,187 +15,8 @@
 
 <img src="https://camo.githubusercontent.com/6ed9c2c50ea2a6dc8fa23f8f41fcb98aebf2b0eb4e816c7c85247280331bd4fa/68747470733a2f2f796f67656e6472612e6d652f323031372f30372f32302f6d6967726174696f6e2d6d616e69612f68746d6c2d6a732d6373732e706e67" align="center" width="300"> <br>
 
-# REQUESITOS:
-* 💻[INSTALAR O GIT](https://git-scm.com/book/pt-br/v2/Come%C3%A7ando-Instalando-o-Git)
-* 🤯[CONHECER O GITHUB](https://github.com)
-* 💻[INSTALAR O CHROME](https://www.google.com/chrome/?brand=BNSD&gclid=Cj0KCQjwjryjBhD0ARIsAMLvnF9tfhFqF-gR1a4t4RrLrRRkB-tEcwKu3CQ5eZdbQSgsQj0_2gBikjQaAjaGEALw_wcB&gclsrc=aw.ds)
-* 💻[INSTALAR O VISUAL STUDIO CODE](https://code.visualstudio.com/download)
-
-# [MODULO 1: SEMÂTICA DO HTML](https://www.youtube.com/playlist?list=PLHz_AreHm4dkZ9-atkcmcBaMZdmLHft8n)
-## 01) HISTÓRIA DA INTERNET
-* ✅ FAZENDO UM ACORDO
-* ✅ MATERIAIS NECESSÁRIOS
-* ✅ BIOGRAFIAS RECOMENDADAS
-## 02) COMO FUNCIONA A INTERNET
-* ✅ COMO A INTERNET FUNCIONA
-* ✅ DOMINIO E HOSPEDAGEM
-## 03) COMO FUNCIONA HTML E CSS
-* ✅ A DIFERENÇA ENTRE HTML, CSS E JS
-* ✅ FRONT-END
-* ✅ BACK-END
-* ✅ FULL-STACK
-## 04) PRIMEIROS PASSOS EM HTML
-* ✅ ESTRUTURA DO HTML
-* ✅ CONFIGURANDO O "HEAD"
-* ✅ CONTEÚDO NO "BODY"
-* ✅ PRIMEIRO CÓDIGO EM HTML
-## 05) CARACTERES, PARAGRAFOS E QUEBRAS
-* ✅ COLOCANDO PARÁGRAFOS
-* ✅ QUEBRAS DE LINHAS
-* ✅ INCERINDO SIMBOLOS
-* ✅ INCERINDO EMOJIS
-## 06) IMAGENS E FAVICON
-* ✅ DIREITOS AUTORAIS
-* ✅ FORMATOS DOS ARQUIVOS
-* ✅ TAMANHOS DE IMAGENS
-* ✅ INSERINDO IMAGENS
-* ✅ MUDANDO A FAVICON
-## 07) HIERARQUIA DE TITULOS
-* ✅ "H1": TITULOS NIVEL 1
-* ✅ "H2": SUBTITULOS NIVEL 2
-* ✅ "H3": TEMÁTICA NIVEL 1
-* ✅ "H4": SUBTEMÁTICA NIVEL 2
-* ✅ "H5": TÓPICO NIVEL 1
-* ✅ "H6": SUBTÓPICO NIVEL 2
-## 08) FORMATAÇÃO DE TEXTOS
-* ✅ SEMÂNTICA DO HTML
-* ✅ HTML4 X HTML5
-* ✅ USO DE NEGRITO
-* ✅ USO DE ITÁLICO
-* ✅ USO DE MARCADOR
-* ✅ USO DE INSERIDO
-* ✅ USO DE SOBRESCRITO
-* ✅ CITAÇÕES E CÓDIGOS
-* ✅ TAGS MEIO INUTEIS
-## 09) AS LISTAS DO HTML
-* ✅ LISTAS ORDENADAS
-* ✅ LISTAS NÃO ORDENADAS
-* ✅ LISTAS ANINHADAS
-* ✅ LISTAS DE DEFINIÇÃO
-## 10) LIGAÇÕES E LINKS
-* ✅ LINKS E ÂNCORAS
-* ✅ LINKS INTERNOS
-* ✅ LINKS EXTERNOS
-* ✅ LINKS PARA DOWNLOAD
-## 11) IMAGENS DINÂMICAS E MIDIAS
-* ✅ IMAGENS DINÂMICAS
-* ✅ IMAGENS FLEXIVÉIS
-* ✅ COLOCANDO AUDIOS NO SITE
-* ✅ COLOCANDO VIDEOS INTERNOS
-* ✅ COLOCANDO VIDEOS EXTERNOS
-## 12) TRABALHANDO COM ESTILOS
-* ✅ CSS INLINE
-* ✅ CSS INTERNO
-* ✅ CSS EXTERNO
-
-# [MODULO 2: ESTILOS COM CSS](https://www.youtube.com/playlist?list=PLHz_AreHm4dlUpEXkY1AyVLQGcpSgVF8s)
-## 13) CORES
-* ✅ PSICOLOGIA DAS CORES
-* ✅ REPRESETANDO CORES COM CSS
-* ✅ HARMONIA DAS CORES
-* ✅ PALETA DE CORES
-* ✅ CAPTURANDO CORES DA TELA
-* ✅ CRIANDO O DEGRADÊ
-* ✅ CRIANDO UM EXEMPLO REAL
-## 14) FONTES
-* ✅ TIPOGRAFIA
-* ✅ ANATOMIA DO TIPO
-* ✅ FAMILIAS DAS FONTES
-* ✅ TAMANHO E MEDIDAS
-* ✅ PESO, ESTILO E SHORTHAND FONT
-* ✅ USANDO O GOOGLE FONTES
-* ✅ BAIXANDO FONTES EXTERNAS
-* ✅ INDENTIFICANDO FONTES
-* ✅ DETECTANDO FONTES EM IMAGENS
-* ✅ ALINHAMENTO DE TEXTOS
-## 15) SELETORES
-* ✅ USANDO O ID E CLASS
-* ✅ DIFERENÇAS ENTRE ID E CLASS
-* ✅ PSEUDO-CLASS
-* ✅ PSEUDO-ELEMENTOS
-## 16) MODELOS DE CAIXAS
-* ✅ PRIMEIROS CONCEITOS
-* ✅ TIPOS DE CAIXAS
-* ✅ MODELOS DE CAIXAS
-* ✅ GOUPING TAGS
-* ✅ SOMBRA NAS CAIXAS
-* ✅ VERTICES ARRENDODAS
-* ✅ BORDAS DECORADAS
-## 17) MINI-PROJETO
-* ✅ VARIAVÉIS COM CSS
-* ✅ RESPONSIVIDADE
-* ✅ MASCOTE DO ANDROID
-
-# [MODULO 3: HOSPEDAGEM](https://www.youtube.com/playlist?list=PLHz_AreHm4dmcAviDwiGgHbeEJToxbOpZ)
-## 18) GIT E GITHUB
-* ✅ CONCEITO DE GIT E GITHUB
-* ✅ GITHUB EM VÁRIOS PCS
-* ✅ USANDO O PAGES
-* ✅ COLOCANDO O SITE NO AR
-## 19) IMAGENS DE FUNDO
-* ✅ COLOCANDO IMAGENS DE FUNDO
-* ✅ IMAGENS QUE SE REPETEM
-* ✅ CONFIGURANDO POSIÇÃO DA IMAGEM
-* ✅ MUDANDO O TAMANHO DA IMAGEM
-* ✅ BACKGROUD ATTACHMENT E SHORTHAND
-* ✅ CENTRALIZAÇÃO VERTICAL DE CAIXAS
-## 20) PROJETO CORDEL
-* ✅ RESPONSIVIDADE COM FONTES
-* ✅ EFEITO PARALLAX SIMPLES
-## 21) CRIANDO TABELAS
-* ✅ USO DE TABELAS NO HTML
-* ✅ PRIMEIRA TABELA
-* ✅ ALINHANDO CONTEÚDO
-* ✅ TABELAS GRANDES
-* ✅ CAPTION E ESCOPO DE TITULOS
-* ✅ EFEITO ZEBRADO
-* ✅ CABEÇALHO FIXO
-* ✅ MESCLAGEM DE CELULAS
-* ✅ ESCOPO DE GRUPO
-* ✅ AGRUPANDO COLUNAS
-* ✅ TABELAS RESPONSIVAS
-
-# [MODULO 4: IFRAME E PROJETOS](https://www.youtube.com/playlist?list=PLHz_AreHm4dkcVCk2Bn_fdVQ81Fkrh6WT)
-## 22) FUNDAMENTOS DO IFRAME
-* ✅ CONCEITO E FUNDAMENTOS
-* ✅ CONFIGURANDO IFRAME
-* ✅ INSERINDO CONTEÚDO LOCAL
-* ✅ NAVEGAÇÃO NO IFRAME
-* ✅ CONTEÚDOS ESTÁTICOS
-* ✅ SEGURANÇA NO IFRAME
-* ✅ DICAS SOBRE IFRAME
-## 23) PROJETO REDES SOCIAIS
-* ✅ USO DE IFRAMES
-* ✅ USO DE IMAGENS
-* ✅ COLOCANDO NO GITHUB PAGES
-## 24) FORMULÁRIOS
-* ✅ USANDO O JAVA SCRIPT
-* ✅ LOGIN DE USUÁRIO
-* ✅ ELEMENTOS INPUT
-* ✅ METODOS DE FORMULÁRIOS
-* ✅ CAIXAS DE TEXTOS
-* ✅ CAIXAS NUMERICAS
-* ✅ CAIXAS DE SENHA
-* ✅ CAIXAS DE DADOS
-* ✅ COMPONENTES DE TELEFONES
-* ✅ ELEMENTOS CHACKBOTS
-## 25) MEDIA QUERY
-* ✅ RESPONSIVIDADE GLOBAL
-* ✅ RESPONSIVIDADE COM LAYOUTS DIFERENTES
-* ✅ MEDIA FITERS
-* ✅ MOBILE FORTS
-* ✅ MENU RESPONSIVO
-## 26) PROJETO DE LOGIN RESPONSIVO
-* ✅ FORMULÁRIOS
-* ✅ MEDIA QUERY
-* ✅ RESPONSIVIDADE GLOBAL
-* ✅ MODO RETRATO DE PAISAGEM
-
-# 📹VIDEOS DO YOUTUBE:
-* [CRIANDO SITE EXPONTANEO COM HTML E CSS](https://youtu.be/HQjbzHJjkRM?si=SuSEBUik3787iY7h)
-* [CRIANDO SITE CORDEL COM HTML E CSS](https://youtu.be/SZbb-XPe6ys?si=9ZPTpk2aVfRkhqed)
-
 ![](https://i.imgur.com/waxVImv.png)
+
 # 🤳SINTAXE DA LINGUAGEM:
 ## 🔶HTML:
 ### VISÃO PANORÂMICA:
@@ -396,7 +215,4 @@ O CSS (Cascading Style Sheets) é uma linguagem de estilo utilizada para definir
 * **6 - Animações e transições:** O CSS permite animar elementos e criar transições suaves entre diferentes estados de estilo. É possível definir animações personalizadas, alterar propriedades gradualmente ao longo do tempo e criar efeitos visuais interessantes.
 * **7 - Reutilização de estilos:** Com o CSS, é possível definir estilos em uma única declaração e aplicá-los a vários elementos em uma página ou em várias páginas, facilitando a reutilização e a manutenção dos estilos.
 * **8 - Compatibilidade com navegadores:** O CSS é amplamente suportado pelos navegadores modernos, permitindo que as regras de estilo sejam interpretadas e aplicadas corretamente na maioria dos dispositivos e navegadores.
-
-## 🆚JAVASCRIPT:
-### [SE QUISER FAZER O CURSO DE JAVASCRIPT, CLIQUE AQUI!](https://github.com/VILHALVA/CURSO-DE-JAVASCRIPT)
 
