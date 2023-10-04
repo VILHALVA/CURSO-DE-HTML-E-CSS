@@ -1,6 +1,6 @@
 # CURSO-DE-HTML-CSS-JS
 - 👨‍⚖️HTML E CSS SÃO LINGUAGENS DE MARCAÇÃO.
-- 👨‍⚖️HTML PARA CONTÚDO E CSS PARA O LAYOUT.
+- 👨‍⚖️HTML É PARA O CONTÚDO E CSS PARA O LAYOUT.
 - 👨‍⚖️AMBAS SÃO USADAS NO DESENVOLVIMENTO WEB.
 
 [![GitHub Repo stars](https://img.shields.io/badge/VILHALVA-GITHUB-03A9F4?logo=github)](https://github.com/VILHALVA) 
