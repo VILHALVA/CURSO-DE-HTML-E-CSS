@@ -1,0 +1,2 @@
+# BAIXANDO IMAGENS DO CAPITULO
+* VOCÊ PODE USAR AS IMAGENS DESSE REPOSITÓRIO, OU BAIXAR O ARQUIVO ZIP [CLICANDO AQUI](https://github.com/gustavoguanabara/html-css/blob/master/exercicios/modulo-03/ex022/imagens-cap19.zip)
