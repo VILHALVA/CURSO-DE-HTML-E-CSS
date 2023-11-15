@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Exemplo de IFRAME em HTML5</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            text-align: center;
+            padding: 20px;
+        }
+
+        iframe {
+            margin-top: 20px;
+        }
+    </style>
+</head>
+<body>
+
+    <h1>Exemplo de IFRAME</h1>
+
+    <!-- IFRAME incorporando uma página web externa -->
+    <h2>Página Web Externa</h2>
+    <p>Este IFRAME incorpora uma página web externa.</p>
+    <iframe src="https://www.example.com" width="600" height="400" title="Exemplo de Página Web Externa"></iframe>
+
+    <!-- IFRAME incorporando um documento HTML interno -->
+    <h2>Conteúdo Incorporado</h2>
+    <p>Este IFRAME incorpora um documento HTML interno.</p>
+    <iframe srcdoc="<html><body><p>Conteúdo interno no IFRAME.</p></body></html>" width="300" height="200" title="Conteúdo Interno"></iframe>
+
+</body>
+</html>

@@ -1,0 +1,35 @@
+/* Estilos para o cabeçalho */
+
+body {
+    font-family: Arial, sans-serif;
+    line-height: 1.6;
+    margin: 0;
+    padding: 0;
+}
+
+header {
+    background-color: #333;
+    color: white;
+    text-align: center;
+    padding: 1em;
+}
+
+header h1 {
+    margin: 0; /* Remova as margens padrão do h1 */
+}
+
+header p {
+    margin-top: 10px;
+    font-style: italic;
+}
+
+main {
+    margin: 20px;
+}
+
+footer {
+    background-color: #333;
+    color: white;
+    text-align: center;
+    padding: 1em;
+}

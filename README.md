@@ -7,6 +7,8 @@
 [![GitHub Repo stars](https://img.shields.io/badge/DOCUMENTAÇÃO-HTML-03A9F4?logo=google)](https://developer.mozilla.org/en-US/docs/Web/HTML) 
 [![GitHub Repo stars](https://img.shields.io/badge/DOCUMENTAÇÃO-CSS-03A9F4?logo=google)](https://developer.mozilla.org/en-US/docs/Web/CSS) <br>
 
+
+[![GitHub Repo stars](https://img.shields.io/badge/-MODULO%200-blueviolet)](https://youtube.com/playlist?list=PLHz_AreHm4dlAnJ_jJtV29RFxnPHDuk9o&si=Q0DrguukqqNMxUhj)
 [![GitHub Repo stars](https://img.shields.io/badge/-MODULO%201-blueviolet)](https://www.youtube.com/playlist?list=PLHz_AreHm4dkZ9-atkcmcBaMZdmLHft8n)
 [![GitHub Repo stars](https://img.shields.io/badge/-MODULO%202-blueviolet)](https://www.youtube.com/playlist?list=PLHz_AreHm4dlUpEXkY1AyVLQGcpSgVF8s)
 [![GitHub Repo stars](https://img.shields.io/badge/-MODULO%203-blueviolet)](https://www.youtube.com/playlist?list=PLHz_AreHm4dmcAviDwiGgHbeEJToxbOpZ)

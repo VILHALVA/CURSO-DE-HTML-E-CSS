@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Integração de JavaScript e HTML5</title>
+    <style>
+        /* Estilos CSS para melhorar a apresentação */
+        body {
+            font-family: Arial, sans-serif;
+            text-align: center;
+            padding: 20px;
+        }
+
+        button {
+            padding: 10px;
+            font-size: 16px;
+            margin-top: 10px;
+        }
+    </style>
+</head>
+<body>
+
+    <h1>Integração de JavaScript e HTML5</h1>
+
+    <!-- Elemento HTML para exibir uma mensagem -->
+    <p id="mensagem">Clique no botão para exibir uma mensagem.</p>
+
+    <!-- Botão que aciona uma função JavaScript -->
+    <button onclick="exibirMensagem()">Clique Aqui</button>
+
+    <script>
+        // Função JavaScript para ser chamada pelo botão
+        function exibirMensagem() {
+            // Seleciona o elemento com o id "mensagem"
+            var elementoMensagem = document.getElementById("mensagem");
+
+            // Modifica o conteúdo do elemento
+            elementoMensagem.innerHTML = "Olá, esta é uma mensagem exibida pelo JavaScript!";
+        }
+    </script>
+
+</body>
+</html>

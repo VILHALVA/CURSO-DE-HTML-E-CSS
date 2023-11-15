@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Álbum de Fotos</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            text-align: center;
+        }
+
+        h1 {
+            color: #333;
+        }
+
+        /* Estilos para a galeria de fotos */
+        .gallery {
+            display: flex;
+            flex-wrap: wrap;
+            justify-content: center;
+            gap: 20px;
+        }
+
+        .photo {
+            width: 200px;
+            height: 200px;
+            overflow: hidden;
+            border-radius: 10px;
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+        }
+
+        .photo img {
+            width: 100%;
+            height: 100%;
+            object-fit: cover;
+        }
+    </style>
+</head>
+<body>
+
+    <h1>Meu Álbum de Fotos</h1>
+
+    <!-- Galeria de Fotos -->
+    <div class="gallery">
+        <!-- Foto 1 -->
+        <div class="photo">
+            <img src="foto1.jpg" alt="Foto 1">
+        </div>
+
+        <!-- Foto 2 -->
+        <div class="photo">
+            <img src="foto2.jpg" alt="Foto 2">
+        </div>
+
+        <!-- Adicione mais fotos conforme necessário -->
+    </div>
+
+</body>
+</html>

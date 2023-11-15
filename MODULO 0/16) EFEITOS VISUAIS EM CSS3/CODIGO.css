@@ -1,0 +1,49 @@
+/* Estilos para os efeitos visuais */
+
+body {
+    font-family: Arial, sans-serif;
+    line-height: 1.6;
+    margin: 0;
+    padding: 0;
+}
+
+header {
+    background-color: #333;
+    color: white;
+    text-align: center;
+    padding: 1em;
+}
+
+section {
+    margin: 20px;
+    padding: 20px;
+}
+
+/* Seção 1: Sombras */
+.exemplo-sombra {
+    box-shadow: 5px 5px 10px #888888;
+}
+
+/* Seção 2: Bordas Arredondadas */
+.exemplo-bordas-arredondadas {
+    border-radius: 10px;
+}
+
+/* Seção 3: Transições */
+.exemplo-transicao {
+    transition: background-color 0.3s ease-in-out;
+}
+
+.exemplo-transicao:hover {
+    background-color: #FFD700;
+}
+
+/* Seção 4: Gradientes */
+.exemplo-gradiente {
+    background: linear-gradient(to right, #ffcc00, #ff6600);
+}
+
+/* Seção 5: Transformações */
+.exemplo-transformacao {
+    transform: rotate(45deg);
+}

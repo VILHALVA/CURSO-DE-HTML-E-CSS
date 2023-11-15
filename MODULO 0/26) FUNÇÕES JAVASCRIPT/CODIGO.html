@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Funções em JavaScript</title>
+</head>
+<body>
+
+    <h1>Trabalhando com Funções em JavaScript</h1>
+
+    <script>
+        // Função simples sem parâmetros
+        function saudacao() {
+            console.log("Olá, seja bem-vindo!");
+        }
+
+        // Chamando a função
+        saudacao();
+
+        // Função com parâmetros
+        function cumprimentar(nome, idade) {
+            console.log("Olá, " + nome + "! Você tem " + idade + " anos.");
+        }
+
+        // Chamando a função com argumentos
+        cumprimentar("Maria", 28);
+
+        // Função que retorna um valor
+        function somar(a, b) {
+            return a + b;
+        }
+
+        // Chamando a função e exibindo o resultado
+        var resultado = somar(5, 3);
+        console.log("A soma é:", resultado);
+
+        // Função anônima atribuída a uma variável
+        var quadrado = function(x) {
+            return x * x;
+        };
+
+        // Chamando a função anônima
+        console.log("O quadrado de 4 é:", quadrado(4));
+
+        // Função com escopo léxico (closure)
+        function contador() {
+            var contagem = 0;
+
+            return function() {
+                contagem++;
+                console.log("Contagem:", contagem);
+            };
+        }
+
+        // Criando uma instância da função com escopo léxico
+        var incrementarContagem = contador();
+
+        // Chamando a função interna
+        incrementarContagem();
+        incrementarContagem();
+    </script>
+
+</body>
+</html>
