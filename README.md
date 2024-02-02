@@ -1,20 +1,11 @@
 # CURSO DE HTML E CSS
 👨‍⚖️HTML (HYPERTEXT MARKUP LANGUAGE) É A LINGUAGEM DE MARCAÇÃO USADA PARA ESTRUTURAR E ORGANIZAR O CONTEÚDO DE UMA PÁGINA DA WEB. O CSS (CASCADING STYLE SHEETS) É UMA LINGUAGEM DE ESTILO USADA PARA DEFINIR A APARÊNCIA E O LAYOUT DOS ELEMENTOS EM UMA PÁGINA DA WEB.
 
-[![GitHub Repo stars](https://img.shields.io/badge/VILHALVA-GITHUB-03A9F4?logo=github)](https://github.com/VILHALVA) 
+<img src="HTML.png" align="left" width="200">
+<img src="CSS.png" align="right" width="200"> <br>
 
-[![GitHub Repo stars](https://img.shields.io/badge/DOCUMENTAÇÃO-HTML-03A9F4?logo=google)](https://developer.mozilla.org/en-US/docs/Web/HTML) 
-[![GitHub Repo stars](https://img.shields.io/badge/DOCUMENTAÇÃO-CSS-03A9F4?logo=google)](https://developer.mozilla.org/en-US/docs/Web/CSS) <br>
-
-
-[![GitHub Repo stars](https://img.shields.io/badge/-MODULO%200-blueviolet)](https://youtube.com/playlist?list=PLHz_AreHm4dlAnJ_jJtV29RFxnPHDuk9o&si=Q0DrguukqqNMxUhj)
-[![GitHub Repo stars](https://img.shields.io/badge/-MODULO%201-blueviolet)](https://www.youtube.com/playlist?list=PLHz_AreHm4dkZ9-atkcmcBaMZdmLHft8n)
-[![GitHub Repo stars](https://img.shields.io/badge/-MODULO%202-blueviolet)](https://www.youtube.com/playlist?list=PLHz_AreHm4dlUpEXkY1AyVLQGcpSgVF8s)
-[![GitHub Repo stars](https://img.shields.io/badge/-MODULO%203-blueviolet)](https://www.youtube.com/playlist?list=PLHz_AreHm4dmcAviDwiGgHbeEJToxbOpZ)
-[![GitHub Repo stars](https://img.shields.io/badge/-MODULO%204-blueviolet)](https://www.youtube.com/playlist?list=PLHz_AreHm4dkcVCk2Bn_fdVQ81Fkrh6WT) <br>
-
-# 🤳SINTAXE DA LINGUAGEM:
-## 🔶HTML:
+# SINTAXE DA LINGUAGEM:
+## HTML:
 ### VISÃO PANORÂMICA:
 | PERGUNTA | RESPOSTA |
 | :---: | :---: |
@@ -118,7 +109,7 @@ O HTML (HyperText Markup Language) é uma linguagem de marcação utilizada para
 * **7 - Compatibilidade com navegadores:** O HTML é uma linguagem padrão amplamente suportada pelos navegadores web modernos, o que significa que as páginas HTML são exibidas consistentemente em diferentes dispositivos e plataformas.
 * **8 - Estruturação de dados:** O HTML também pode ser utilizado para estruturar dados, utilizando elementos como \<table>, \<ul>, \<ol>, \<dl>, entre outros, para criar listas, tabelas e definições.
  
-## 🔷CSS:
+## CSS:
 ### VISÃO PANORÂMICA:
 | PERGUNTA | RESPOSTA |
 | :---: | :---: |
@@ -211,4 +202,15 @@ O CSS (Cascading Style Sheets) é uma linguagem de estilo utilizada para definir
 * **6 - Animações e transições:** O CSS permite animar elementos e criar transições suaves entre diferentes estados de estilo. É possível definir animações personalizadas, alterar propriedades gradualmente ao longo do tempo e criar efeitos visuais interessantes.
 * **7 - Reutilização de estilos:** Com o CSS, é possível definir estilos em uma única declaração e aplicá-los a vários elementos em uma página ou em várias páginas, facilitando a reutilização e a manutenção dos estilos.
 * **8 - Compatibilidade com navegadores:** O CSS é amplamente suportado pelos navegadores modernos, permitindo que as regras de estilo sejam interpretadas e aplicadas corretamente na maioria dos dispositivos e navegadores.
+
+## SUBSIDIOS:
+- [CURSO CRIADO PELO "CURSO EM VIDEO"](https://www.youtube.com/@CursoemVideo)
+  - [MODULO 0](https://youtube.com/playlist?list=PLHz_AreHm4dlAnJ_jJtV29RFxnPHDuk9o&si=Q0DrguukqqNMxUhj)
+  - [MODULO 1](https://www.youtube.com/playlist?list=PLHz_AreHm4dkZ9-atkcmcBaMZdmLHft8n)
+  - [MODULO 2](https://www.youtube.com/playlist?list=PLHz_AreHm4dlUpEXkY1AyVLQGcpSgVF8s)
+  - [MODULO 3](https://www.youtube.com/playlist?list=PLHz_AreHm4dmcAviDwiGgHbeEJToxbOpZ)
+  - [MODULO 4](https://www.youtube.com/playlist?list=PLHz_AreHm4dkcVCk2Bn_fdVQ81Fkrh6WT)
+- [CURSO FEITO PELO VILHALVA](https://github.com/VILHALVA)
+- [VEJA A DOCUMENTAÇÃO DO HTML](https://developer.mozilla.org/en-US/docs/Web/HTML)
+- [VEJA A DOCUMENTAÇÃO DO CSS](https://developer.mozilla.org/en-US/docs/Web/CSS)
 
