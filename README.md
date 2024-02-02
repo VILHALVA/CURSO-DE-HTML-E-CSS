@@ -2,7 +2,7 @@
 👨‍⚖️HTML (HYPERTEXT MARKUP LANGUAGE) É A LINGUAGEM DE MARCAÇÃO USADA PARA ESTRUTURAR E ORGANIZAR O CONTEÚDO DE UMA PÁGINA DA WEB. O CSS (CASCADING STYLE SHEETS) É UMA LINGUAGEM DE ESTILO USADA PARA DEFINIR A APARÊNCIA E O LAYOUT DOS ELEMENTOS EM UMA PÁGINA DA WEB.
 
 <img src="HTML.png" align="left" width="200">
-<img src="CSS.png" align="right" width="200"> <br> <br>
+<img src="CSS.png" align="center" width="200"> <br>
 
 # SINTAXE DA LINGUAGEM:
 ## HTML:
