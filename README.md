@@ -204,7 +204,7 @@ O CSS (Cascading Style Sheets) é uma linguagem de estilo utilizada para definir
 * **8 - Compatibilidade com navegadores:** O CSS é amplamente suportado pelos navegadores modernos, permitindo que as regras de estilo sejam interpretadas e aplicadas corretamente na maioria dos dispositivos e navegadores.
 
 ## SUBSIDIOS:
-- [CURSO CRIADO PELO "CURSO EM VIDEO"](https://www.youtube.com/@CursoemVideo)
+- [CURSO CRIADO PELO "CURSO EM VIDEO":](https://www.youtube.com/@CursoemVideo)
   - [MODULO 0](https://youtube.com/playlist?list=PLHz_AreHm4dlAnJ_jJtV29RFxnPHDuk9o&si=Q0DrguukqqNMxUhj)
   - [MODULO 1](https://www.youtube.com/playlist?list=PLHz_AreHm4dkZ9-atkcmcBaMZdmLHft8n)
   - [MODULO 2](https://www.youtube.com/playlist?list=PLHz_AreHm4dlUpEXkY1AyVLQGcpSgVF8s)
