@@ -59,11 +59,10 @@
 
 ## SUBSIDIOS:
 - [CURSO CRIADO PELO "CURSO EM VIDEO":](https://www.youtube.com/@CursoemVideo)
-  - [MODULO 0](https://youtube.com/playlist?list=PLHz_AreHm4dlAnJ_jJtV29RFxnPHDuk9o&si=Q0DrguukqqNMxUhj)
-  - [MODULO 1](https://www.youtube.com/playlist?list=PLHz_AreHm4dkZ9-atkcmcBaMZdmLHft8n)
-  - [MODULO 2](https://www.youtube.com/playlist?list=PLHz_AreHm4dlUpEXkY1AyVLQGcpSgVF8s)
-  - [MODULO 3](https://www.youtube.com/playlist?list=PLHz_AreHm4dmcAviDwiGgHbeEJToxbOpZ)
-  - [MODULO 4](https://www.youtube.com/playlist?list=PLHz_AreHm4dkcVCk2Bn_fdVQ81Fkrh6WT)
+  - [MODULO 01](https://www.youtube.com/playlist?list=PLHz_AreHm4dkZ9-atkcmcBaMZdmLHft8n)
+  - [MODULO 02](https://www.youtube.com/playlist?list=PLHz_AreHm4dlUpEXkY1AyVLQGcpSgVF8s)
+  - [MODULO 03](https://www.youtube.com/playlist?list=PLHz_AreHm4dmcAviDwiGgHbeEJToxbOpZ)
+  - [MODULO 04](https://www.youtube.com/playlist?list=PLHz_AreHm4dkcVCk2Bn_fdVQ81Fkrh6WT)
 - [CURSO FEITO PELO VILHALVA](https://github.com/VILHALVA)
 - [VEJA A DOCUMENTAÇÃO DO HTML](https://developer.mozilla.org/en-US/docs/Web/HTML)
 - [VEJA A DOCUMENTAÇÃO DO CSS](https://developer.mozilla.org/en-US/docs/Web/CSS)
