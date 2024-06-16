@@ -1,8 +1,8 @@
 # CURSO DE HTML E CSS
 👨‍⚖️HTML (HYPERTEXT MARKUP LANGUAGE) É A LINGUAGEM DE MARCAÇÃO USADA PARA ESTRUTURAR E ORGANIZAR O CONTEÚDO DE UMA PÁGINA DA WEB. O CSS (CASCADING STYLE SHEETS) É UMA LINGUAGEM DE ESTILO USADA PARA DEFINIR A APARÊNCIA E O LAYOUT DOS ELEMENTOS EM UMA PÁGINA DA WEB.
 
-<img src="HTML.png" align="left" width="200">
-<img src="CSS.png" align="center" width="200"> <br>
+<img src="./IMAGENS/HTML.png" align="left" width="200">
+<img src="./IMAGENS/CSS.png" align="center" width="200"> <br>
 
 ## VISÃO PANORÂMICA DO HTML:
   | PERGUNTA | RESPOSTA |
@@ -66,6 +66,8 @@
 - [CURSO FEITO PELO VILHALVA](https://github.com/VILHALVA)
 - [VEJA A DOCUMENTAÇÃO DO HTML](https://developer.mozilla.org/en-US/docs/Web/HTML)
 - [VEJA A DOCUMENTAÇÃO DO CSS](https://developer.mozilla.org/en-US/docs/Web/CSS)
+- [VEJA O MANUAL](./MANUAL.md)
 - [VEJA A SINTAXE](./SINTAXE.md)
-- [VEJA OS PROJETOS](https://github.com/VILHALVA?tab=repositories&q=+topic:HTML)
+- [VEJA OS PROJETOS HTML](https://github.com/VILHALVA?tab=repositories&q=+topic:HTML)
+- [VEJA OS PROJETOS CSS](https://github.com/VILHALVA?tab=repositories&q=+topic:CSS)
 
