@@ -58,7 +58,7 @@
   * **8 - Compatibilidade com navegadores:** O CSS é amplamente suportado pelos navegadores modernos, permitindo que as regras de estilo sejam interpretadas e aplicadas corretamente na maioria dos dispositivos e navegadores.
 
 ## SUBSIDIOS:
-- [CURSO CRIADO PELO "CURSO EM VIDEO":](https://www.youtube.com/@CursoemVideo)
+- [CURSO CRIADO PELO "CURSO EM VIDEO":](https://www.youtube.com/c/CursoemV%C3%ADdeo)
   - [MODULO 01](https://www.youtube.com/playlist?list=PLHz_AreHm4dkZ9-atkcmcBaMZdmLHft8n)
   - [MODULO 02](https://www.youtube.com/playlist?list=PLHz_AreHm4dlUpEXkY1AyVLQGcpSgVF8s)
   - [MODULO 03](https://www.youtube.com/playlist?list=PLHz_AreHm4dmcAviDwiGgHbeEJToxbOpZ)
