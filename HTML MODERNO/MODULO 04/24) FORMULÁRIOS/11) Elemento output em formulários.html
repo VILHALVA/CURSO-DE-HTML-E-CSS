@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>OUTPUT</title>
+</head>
+<body>
+   <h1>ELEMENTO OUTPUT EM FORMULÁRIOS:</h1> 
+   <h2>SOMA DE VALORES:</h2>
+   <form action="CADASTRO.php" method="get" autocomplete="on">
+    <p>
+        <label for="in1">NUMERO 1:</label>
+        <input type="number" name="n1" id="in1" min="0" max="50" required
+        oninput="isoma.innerHTML = Number(in1.value) + Number(in2.value)"
+       >
+    </p>
+
+    <p>
+        <label for="in2">NUMERO 2:</label>
+        <input type="number" name="n2" id="in2" min="0" max="50" required
+        oninput="isoma.innerHTML = Number(in1.value) + Number(in2.value)"
+        >
+    </p>
+
+    <p>
+        <label for="isoma">SOMA:</label>
+        <output id ="isoma">0</output>
+    </p>
+
+    <h2>NUMERO DE NIVEL:</h2>
+    <p>
+        <label for="inum">NUMERO:</label>
+        <input type="range" name="num" id="inum" min="0" max="10" value="5"
+        oninput="ival.innerHTML = Number(inum.value)">
+        <output id="ival">5</output>
+    </p>
+
+    <h2>SUA IDADE:</h2> 
+    <p>
+        <label for="iano">EM QUE ANO VOCÊ NASCEU?</label>
+        <input type="number" name="ano" id="iano" min="1990" max="2022" oninput = "calcIdade()">
+    </p>
+    <p>
+        <label for="iidade">SUA IDADE:</label>
+        <output id ="iidade">0</output>
+    </p>
+
+    <p>
+        <input type="submit" value="ENVIAR">
+        <input type="reset" value="LIMPAR">
+    </p>
+   </form>
+
+   <script>
+        function calcIdade() {
+            let atual = new Date().getFullYear()
+            iidade.innerHTML = Number(atual) - Number(iano.value)
+        }
+    </script>
+</body>
+</html>

@@ -1,0 +1,21 @@
+/* Estilos para a formatação de imagem */
+
+body {
+    font-family: Arial, sans-serif;
+    line-height: 1.6;
+}
+
+h1 {
+    text-align: center;
+}
+
+/* Estilos para a imagem */
+.imagem-formatada {
+    display: block; /* Faz a imagem se comportar como um bloco, permitindo ajustes de margem e alinhamento */
+    margin: 0 auto; /* Centraliza a imagem horizontalmente */
+    max-width: 100%; /* Garante que a imagem não ultrapasse a largura do contêiner pai */
+    height: auto; /* Mantém a proporção da imagem ao redimensionar */
+    border: 2px solid #333; /* Adiciona uma borda de 2 pixels sólidos em cor cinza (#333) */
+    box-shadow: 3px 3px 5px #888; /* Adiciona uma sombra à imagem */
+    border-radius: 10px; /* Adiciona uma borda arredondada à imagem */
+}

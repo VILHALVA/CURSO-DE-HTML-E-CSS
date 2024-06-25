@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>HACKEADO PELO IFRAME</title>
+    <style>
+        body {
+            background: black;
+            color: white;
+            font-family: Arial, Helvetica, sans-serif;
+            text-align: justify;
+            padding: 30px;
+            font-size: 20px;
+        }
+
+        h1 {
+            background-color: blue;
+            color: crimson;
+            font-size: 2em;
+            font-weight: bolder;
+            text-align: center;
+            border-radius: 20px;
+        }
+
+        iframe {
+        background-color: white;
+        }
+    </style>
+</head>
+<body>
+    <h1>EVITANDO SER HACKEADO POR "07) Tornando os Iframes Seguros.html"</h1>
+    <iframe src="07) Tornando os Iframes Seguros.html" frameborder="1" sandbox="sandbox" referrerpolicy="no-referrer"></iframe>
+    <p>Para melhorar sua segurança, você pode usar:</p>
+    <ul>
+        <li>SANDBOX="SANDBOX": Bloqueio total de transferência de dados para o outro site.</li>
+        <li>SANDBOX="NO-REFERRER": Bloqueia a referência de dados. Não permite a captura de dados (Modo anônimo).</li>
+        <li>SANDBOX="ALLOW-SAME-ORIGIN": Permite a transferência de dados somente se o site do IFRAME estiver no mesmo servidor que o seu.
+        </li>
+        <li>SANDBOX="ALLOW-SAME-ORIGIN ALLOW-FORM": Permite apenas formulários (No mesmo servidor).</li>
+        <li>SANDBOX="ALLOW-SCRIPTS": Permite a execução apenas de Scripts (JavaScript, PHP...).</li>
+    </ul>
+</body>
+</html>

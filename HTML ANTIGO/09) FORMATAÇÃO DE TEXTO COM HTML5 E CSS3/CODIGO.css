@@ -1,0 +1,51 @@
+/* Estilos para a formatação de texto */
+
+body {
+    font-family: Arial, sans-serif;
+    line-height: 1.6;
+}
+
+header {
+    background-color: #f0f0f0;
+    padding: 20px;
+    text-align: center;
+}
+
+h1 {
+    color: #333;
+}
+
+section {
+    margin: 20px;
+}
+
+/* Estilos de Texto */
+.destaque {
+    font-size: 18px;
+    font-weight: bold;
+}
+
+.negrito {
+    font-weight: bold;
+}
+
+.italico {
+    font-style: italic;
+}
+
+.sublinhado {
+    text-decoration: underline;
+}
+
+/* Cores de Texto */
+.cor-vermelha {
+    color: #ff0000;
+}
+
+.cor-verde {
+    color: #008000;
+}
+
+.cor-azul {
+    color: #0000ff;
+}

@@ -1,0 +1,74 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>CONCEITO</title>
+    <link rel="shortcut icon" href="../MIDIAS/Social-Media-Icons-Glossy-Social-HTML-3.ico" type="image/x-icon">
+    <link rel="stylesheet" href="../CSS/ESTILO 01.css">
+</head>
+<body>
+    <main>
+        <h1 id="titulo">CONCEITO</h1><hr>
+        <iframe width="400" height="250" src="https://www.youtube.com/embed/3ZFYXkzXhqE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe><br>
+        <h2>01) O que é uma caixa?</h2>
+        <p>De forma simples e objetiva, baseado em um conceito chamado
+            “box model”, a grande maioria dos elementos HTML que
+            temos no nosso site são como caixas. Elas são containers
+            que armazenam conteúdos ou até mesmo outras caixas.</p>
+        <h3>Anatomia de uma caixa:</h3>
+        <p>Vamos analisar como uma caixa vai ser apresentada por
+            todos os navegadores. Olhe atentamente o diagrama a
+            seguir, que é exatamente o já citado modelo de caixa:</p>
+        <img src="../MIDIAS/Anatomia de uma caixa.png" alt="">
+        <p>Tudo começa a partir do conteúdo (content), que representamos acima com o bla
+            bla bla… Por padrão, toda caixa é composta apenas pelo conteúdo e não possui
+            padding, nem border, nem outline e nem margin. Uma exceção curiosa é o
+            elemento body que já vem com uma margin de 8px.
+            Todo conteúdo possui uma largura (width) e uma altura (height) e a esse conjunto
+            de propriedades, damos o nome de box-size (tamanho da caixa). O tamanho da
+            caixa não inclui as medidas de padding, border, outline e margin.
+            Depois do conteúdo e de seu tamanho, vamos nos focar na borda que fica em volta
+            dele. Ela pode ter uma espessura, uma cor e um formato.
+            Entre a borda e o conteúdo - da borda para dentro - temos o preenchimento
+            (padding) e da borda para fora, temos a margem (margin).
+            Entre a margem e a borda, podemos determinar o contorno (outline) que é muito
+            pouco utilizado, mas existe. Ele é um traçado visual que podemos criar fora da borda
+            e o cálculo da sua espessura faz parte da margem estabelecida.</p>
+        <div>
+            <dt>Contente:</dt>
+            <dd>Referente ao conteúdo.</dd>
+            <dt>Width:</dt>
+            <dd>Largura da caixa (Horizontalmente).</dd>
+            <dt>Height:</dt>
+            <dd>Altura da caixa (Verticalmente).</dd>
+            <dt>Border:</dt>
+            <dd>Bordar: É o que fica em volta do conteúdo.</dd>
+            <dt>Margin:</dt>
+            <dd>Margem: Da borda para fora.</dd>
+            <dt>Outline:</dt>
+            <dd>Contorno: Entre a margem e a borda.</dd>
+            <dt>Padding:</dt>
+            <dd>Preenchimento ente a borda e a margem.</dd>
+        </div>
+        <h2>Tipos de Caixa:</h2>
+        <p>Dependendo do comportamento da caixa, podemos classificar um elemento em uma
+            de duas categorias:</p>
+        <h3>Caixa do tipo block-level:</h3>
+        <p>Um elemento dito block-level sempre vai se iniciar em uma nova linha e vai ocupar a
+            largura total do elemento onde ele está contido. Se não estiver contido em nenhuma
+            outra caixa, ele vai ocupar 100% da largura do body.
+            O elemento block-level mais conhecido é o div e suas variações semânticas
+            modernas da HTML5, como main, section, aside, etc.
+            Na lista a seguir, coloquei alguns elementos HTML que são block-level:</p>
+        <img src="../MIDIAS/Caixa do tipo block-level.png" alt="">
+        <h3>Caixa do tipo inline-level:</h3>
+        <p>Um elemento do tipo inline-level não vai começar em uma nova linha, e sim no ponto
+            exato onde foram definidos. E a largura dele vai ocupar apenas o tamanho relativo ao
+            seu conteúdo.
+            Abaixo, listei alguns elementos inline-level usados pela HTML:</p>
+        <img src="../MIDIAS/Caixa do tipo inline-level.png" alt="">
+    </main>
+</body>
+</html>

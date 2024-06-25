@@ -1,8 +1,7 @@
 # CURSO DE HTML E CSS
 👨‍⚖️HTML (HYPERTEXT MARKUP LANGUAGE) É A LINGUAGEM DE MARCAÇÃO USADA PARA ESTRUTURAR E ORGANIZAR O CONTEÚDO DE UMA PÁGINA DA WEB. O CSS (CASCADING STYLE SHEETS) É UMA LINGUAGEM DE ESTILO USADA PARA DEFINIR A APARÊNCIA E O LAYOUT DOS ELEMENTOS EM UMA PÁGINA DA WEB.
 
-<img src="./IMAGENS/HTML.png" align="left" width="200">
-<img src="./IMAGENS/CSS.png" align="center" width="200"> <br>
+<img src="FOTO.ico" align="left" width="500">
 
 ## VISÃO PANORÂMICA DO HTML:
   | PERGUNTA | RESPOSTA |
@@ -59,10 +58,11 @@
 
 ## SUBSIDIOS:
 - [CURSO CRIADO PELO "CURSO EM VIDEO":](https://www.youtube.com/c/CursoemV%C3%ADdeo)
-  - [MODULO 01](https://www.youtube.com/playlist?list=PLHz_AreHm4dkZ9-atkcmcBaMZdmLHft8n)
-  - [MODULO 02](https://www.youtube.com/playlist?list=PLHz_AreHm4dlUpEXkY1AyVLQGcpSgVF8s)
-  - [MODULO 03](https://www.youtube.com/playlist?list=PLHz_AreHm4dmcAviDwiGgHbeEJToxbOpZ)
-  - [MODULO 04](https://www.youtube.com/playlist?list=PLHz_AreHm4dkcVCk2Bn_fdVQ81Fkrh6WT)
+  - [HTML ANTIGO](https://youtube.com/playlist?list=PLHz_AreHm4dlAnJ_jJtV29RFxnPHDuk9o&si=Q0DrguukqqNMxUhj)
+  - [HTML MODERNO/MODULO 01](https://www.youtube.com/playlist?list=PLHz_AreHm4dkZ9-atkcmcBaMZdmLHft8n)
+  - [HTML MODERNO/MODULO 02](https://www.youtube.com/playlist?list=PLHz_AreHm4dlUpEXkY1AyVLQGcpSgVF8s)
+  - [HTML MODERNO/MODULO 03](https://www.youtube.com/playlist?list=PLHz_AreHm4dmcAviDwiGgHbeEJToxbOpZ)
+  - [HTML MODERNO/MODULO 04](https://www.youtube.com/playlist?list=PLHz_AreHm4dkcVCk2Bn_fdVQ81Fkrh6WT)
 - [CURSO FEITO PELO VILHALVA](https://github.com/VILHALVA)
 - [VEJA A DOCUMENTAÇÃO DO HTML](https://developer.mozilla.org/en-US/docs/Web/HTML)
 - [VEJA A DOCUMENTAÇÃO DO CSS](https://developer.mozilla.org/en-US/docs/Web/CSS)

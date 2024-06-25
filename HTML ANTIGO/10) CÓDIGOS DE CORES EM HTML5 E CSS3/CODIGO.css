@@ -1,0 +1,33 @@
+/* Estilos para a formatação de texto */
+
+body {
+    font-family: Arial, sans-serif;
+    line-height: 1.6;
+}
+
+header {
+    background-color: #f0f0f0;
+    padding: 20px;
+    text-align: center;
+}
+
+h1 {
+    color: #333;
+}
+
+section {
+    margin: 20px;
+}
+
+/* Cores de Texto */
+.cor-azul {
+    color: #0000ff; /* Código hexadecimal para azul */
+}
+
+.cor-vermelha {
+    color: #ff0000; /* Código hexadecimal para vermelho */
+}
+
+.cor-verde {
+    color: #008000; /* Código hexadecimal para verde */
+}
