@@ -63,6 +63,7 @@
   - [HTML MODERNO/MODULO 02](https://www.youtube.com/playlist?list=PLHz_AreHm4dlUpEXkY1AyVLQGcpSgVF8s)
   - [HTML MODERNO/MODULO 03](https://www.youtube.com/playlist?list=PLHz_AreHm4dmcAviDwiGgHbeEJToxbOpZ)
   - [HTML MODERNO/MODULO 04](https://www.youtube.com/playlist?list=PLHz_AreHm4dkcVCk2Bn_fdVQ81Fkrh6WT)
+  - [HTML MODERNO/DESAFIOS RESOLVIDOS](https://github.com/gustavoguanabara/html-css/tree/master/desafios)
 - [CURSO FEITO PELO VILHALVA](https://github.com/VILHALVA)
 - [VEJA A DOCUMENTAÇÃO DO HTML](https://developer.mozilla.org/en-US/docs/Web/HTML)
 - [VEJA A DOCUMENTAÇÃO DO CSS](https://developer.mozilla.org/en-US/docs/Web/CSS)
