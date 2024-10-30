@@ -1,0 +1,19 @@
+#container {
+    background-image: url('../imagens/espaco.jpg');
+    background-size: 100% 100%;
+    position: relative;
+    height: 80vh;
+    padding: 10px;
+    background-color: purple;
+}
+
+#conteudo {
+    background-image: url('../imagens/astronauta.png');
+    background-size: 100% 100%;
+    position: absolute;
+    height: 200px;
+    width: 400px;
+    left: 50%;
+    top: 50%;
+    transform: translate(-50%, -50%);
+}
