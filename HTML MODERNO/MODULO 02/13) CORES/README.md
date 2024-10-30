@@ -1,6 +1,6 @@
 # CORES
 ## CORES EM CSS:
-Claro, vamos começar o módulo 2: HTML com CSS: Cores! As cores desempenham um papel fundamental no design de páginas da web, tornando-as visualmente atraentes e transmitindo informações importantes. Vou explicar como usar cores em HTML e CSS.
+Vamos começar o módulo 2: HTML com CSS: Cores! As cores desempenham um papel fundamental no design de páginas da web, tornando-as visualmente atraentes e transmitindo informações importantes. Vou explicar como usar cores em HTML e CSS.
 
 **1. Cores em CSS:**
 
